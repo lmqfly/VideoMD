@@ -60,7 +60,7 @@ accelerate config
 
 ## 数据准备
 
-- **视频目录**：训练用的视频文件所在路径，如 `video_data/video_cropped_renamed`，每个样本为一条视频（如 `.mp4`）。
+- **视频目录**：训练用的视频文件所在路径，如 `video_data/video_cropped_renamed`，每个样本为一条视频（如 `.mp4`）。若数据源是 **MD 轨迹（PDB+XTC）**，请先按 [推理前：从 MD 轨迹到 1280×720 视频](#推理前从-md-轨迹到-1280x720-视频) 用 `make_video_atlas.py` 和 `crop_and_rename_videos.py` 生成 1280×720 视频。
 - **元数据表**：CSV 文件，需包含训练脚本所要求的列（如 `video` 等指向视频文件名或相对路径）。可使用项目内的 `video_data/gen_meta_data.py` 根据视频目录和 `prompts.csv` 生成 `metadata.csv`。
 
 训练时通过以下参数指定：
@@ -142,6 +142,66 @@ CUDA_VISIBLE_DEVICES=2,6 nohup setsid accelerate launch examples/wanvideo/model_
 | `--lora_rank` | LoRA 秩 | 32 |
 | `--extra_inputs` | 额外输入（I2V 需首帧图） | `input_image` |
 | `--use_gradient_checkpointing_offload` | 梯度检查点卸载到 CPU，省显存 | 建议多卡/大模型时开启 |
+
+---
+
+## 推理前：从 MD 轨迹到 1280×720 视频
+
+若输入为分子动力学（MD）轨迹（PDB + XTC），需先转为视频，再裁剪并缩放到 1280×720，方可用于训练或推理。推荐按以下两步执行（脚本见 `tools/`）。
+
+### 依赖
+
+| 步骤 | 依赖 | 说明 |
+|------|------|------|
+| ① MD → 视频 | **VMD 1.9.4** | 需从[源码安装](https://www.ks.uiuc.edu/Research/vmd/)（用于渲染轨迹帧） |
+| ① MD → 视频 | **ffmpeg** | `sudo apt install ffmpeg` |
+| ② 裁剪与缩放 | **OpenCV (cv2)** | `pip install opencv-python`，用于检测内容区域 |
+| ② 裁剪与缩放 | **ffmpeg** | 同上 |
+
+### 步骤 1：MD 轨迹 → 视频（VMD + ffmpeg）
+
+使用 [tools/make_video_atlas.py](tools/make_video_atlas.py)：读取 PDB 与 XTC 轨迹，用 VMD 渲染各帧（NewCartoon、白底、帧对齐），再用 ffmpeg 合成为 `output_lossless.mp4`。
+
+- **输入**：ATLAS 风格目录结构，即每个蛋白一个目录，内含 `analysis/{pdbid}.pdb` 与 `analysis/{pdbid}_R1.xtc`（及 R2、R3 等）。
+- **输出**：每个轨迹一个子目录，内含 `output_lossless.mp4`。
+
+运行前请在脚本顶部修改路径（如 `raw_path`、`tmp_path`、`out_path`、`pdb_out_path`），然后：
+
+```bash
+# 处理所有蛋白目录
+python tools/make_video_atlas.py
+
+# 或只处理指定 pdbid（如 1a62_A）
+python tools/make_video_atlas.py 1a62_A
+```
+
+**要求**：已安装 **VMD 1.9.4（源码安装）** 且 `vmd` 在 PATH；系统已安装 **ffmpeg**（`sudo apt install ffmpeg`）。
+
+### 步骤 2：裁剪白边并缩放到 1280×720
+
+使用 [tools/crop_and_rename_videos.py](tools/crop_and_rename_videos.py)：对步骤 1 得到的视频做**去白边 + 按比例补边 + 缩放到 1280×720**，并按规则重命名（如 ATLAS：`1a62_A/R1/output_lossless.mp4` → `1a62_A_R1.mp4`）。
+
+- **输入**：在脚本顶部配置 `INPUT_DIRS`（如 `video_atlas` 指向步骤 1 的 `out_path`）。
+- **输出**：在 `OUTPUT_DIR` 下得到 1280×720 的 MP4，可直接作为训练/推理用的视频目录。
+
+运行前请在脚本顶部修改 `INPUT_DIRS`、`OUTPUT_DIR`、`WHITE_THRESHOLD`、`SAFE_MARGIN`、`TARGET_W`/`TARGET_H`（默认已为 1280×720）等，然后：
+
+```bash
+python tools/crop_and_rename_videos.py
+```
+
+**要求**：已安装 **opencv-python**（`pip install opencv-python`）和 **ffmpeg**。脚本内部用 cv2 检测非白区域、用 ffmpeg 做 crop/pad/scale 与编码。
+
+### 流程小结
+
+```
+MD 轨迹 (PDB + XTC)
+  → [make_video_atlas.py，依赖 VMD 1.9.4 + ffmpeg]
+  → 原始渲染视频 (output_lossless.mp4)
+  → [crop_and_rename_videos.py，依赖 cv2 + ffmpeg]
+  → 1280×720 裁剪并重命名后的视频
+  → 用于训练 (dataset_base_path) 或推理输入
+```
 
 ---
 
