@@ -9,13 +9,13 @@
 
 ## Introduction
 
-DiffSynth-Studio is an open-source Diffusion model engine by [ModelScope](https://www.modelscope.cn/). This repository uses **Wan2.1-I2V-14B-720P** for image-to-video LoRA fine-tuning (e.g. protein dynamics video). The following sections describe **environment setup**, **training**, and **inference/testing** based on the project's `run.txt`.
+DiffSynth-Studio is an open-source Diffusion model engine by [ModelScope](https://www.modelscope.cn/). This repository uses **Wan2.1-I2V-14B-720P** for image-to-video LoRA fine-tuning (e.g. protein dynamics video). **Training video data** and **fine-tuned LoRA weights** are available on Hugging Face: dataset [mingquan2211/VideoMD](https://huggingface.co/datasets/mingquan2211/VideoMD), model [mingquan2211/VideoMD_model](https://huggingface.co/mingquan2211/VideoMD_model). The following sections describe **environment setup**, **training**, and **inference/testing** based on the project's `run.txt`.
 
 ---
 
 ## 简介
 
-本仓库基于 [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)，使用 **Wan2.1-I2V-14B-720P** 进行图生视频（I2V）的 LoRA 微调，适用于蛋白质分子动力学等视频数据。下文说明**环境配置**、**训练**与**测试/推理**流程，主要参考项目中的 `run.txt`。
+本仓库基于 [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)，使用 **Wan2.1-I2V-14B-720P** 进行图生视频（I2V）的 LoRA 微调，适用于蛋白质分子动力学等视频数据。**训练用视频数据**与**已训练 LoRA 权重**已上传至 Hugging Face（数据集 [mingquan2211/VideoMD](https://huggingface.co/datasets/mingquan2211/VideoMD)、模型 [mingquan2211/VideoMD_model](https://huggingface.co/mingquan2211/VideoMD_model)），可直接下载。下文说明**环境配置**、**训练**与**测试/推理**流程，主要参考项目中的 `run.txt`。
 
 ---
 
@@ -69,6 +69,23 @@ accelerate config
 - `--dataset_metadata_path`：元数据 CSV 的路径（如 `video_data/metadata.csv`）。
 
 分辨率与帧数需与数据一致，并在训练/推理时统一（见下方参数说明）。
+
+### 已上传至 Hugging Face 的模型与数据
+
+本项目的**训练用视频数据**与**训练好的 LoRA 权重**已上传至 Hugging Face，可直接下载使用：
+
+| 内容 | Hugging Face 仓库 | 类型 | 说明 |
+|------|-------------------|------|------|
+| 视频数据 | [mingquan2211/VideoMD](https://huggingface.co/datasets/mingquan2211/VideoMD) | dataset | 裁剪并重命名后的 1280×720 视频、`metadata.csv`、`prompts.csv` 等 |
+| LoRA 模型 | [mingquan2211/VideoMD_model](https://huggingface.co/mingquan2211/VideoMD_model) | model | Wan2.1-I2V-14B-720P 蛋白质数据 LoRA，含 `epoch-0.safetensors`～`epoch-4.safetensors` |
+
+- **下载视频数据**（到本地 `video_data/`）：  
+  `huggingface-cli download mingquan2211/VideoMD --repo-type dataset --local-dir video_data`
+- **下载 LoRA 权重**（推理时加载）：  
+  `huggingface-cli download mingquan2211/VideoMD_model --repo-type model --local-dir ./lora_weights`  
+  推理代码中可用：`hf_hub_download(repo_id="mingquan2211/VideoMD_model", filename="epoch-4.safetensors", repo_type="model")` 后 `pipe.load_lora(pipe.dit, path, alpha=1)`。
+
+详细上传与下载步骤见 [hf_readme.md](./hf_readme.md)。
 
 ---
 
