@@ -67,7 +67,18 @@ git remote remove origin
 
 # 重新添加并推送
 git remote add origin https://github.com/你的用户名/新仓库名.git
+
+
+cd ~/mingquan/DiffSynth-Studio-main
+git config --local -l | egrep -i 'remote\.origin\.url|https?\.proxy|http\.version'
+git remote set-url origin https://github.com/lmqfly/VideoMD.git
+git config --local http.proxy  http://booster.internal.puhui.chengfengerlai.com:30090
+git config --local https.proxy http://booster.internal.puhui.chengfengerlai.com:30090
+git config --local http.version HTTP/1.1
 git push -u origin main
+lmqfly
+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
+
 ```
 
 ## 五、之后日常更新推送
