@@ -1,0 +1,1842 @@
+PDB,split,length,CATH_supfamily,non_redundant_protein
+1r6w_A,train,322,"Enolase-like C-terminal domain"", ""Enolase-like, N-terminal domain",True
+2y44_A,train,184,-,True
+1ux6_A,train,350,"-"", ""TSP type-3 repeat",True
+1jnr_C,train,643,"Fumarate reductase/succinate dehydrogenase flavoprotein-like, C-terminal domain"", ""FAD/NAD(P)-binding domain"", ""Succinate dehydrogenase/fumarate reductase flavoprotein, catalytic domain",False
+3mx7_A,train,90,-,True
+1u55_A,train,188,H-NOX domain,False
+3k59_A,train,786,"DNA polymerase family B, C-terminal domain"", ""Helix hairpin bin"", ""-"", ""-"", ""Ribonuclease H-like superfamily/Ribonuclease H"", ""Palm domain of DNA polymerase"", ""-",False
+3owt_A,train,157,"-"", ""-",False
+4zds_A,train,134,DNA-binding domain of EIN3-like,False
+3st1_A,train,214,-,False
+3mmh_B,train,167,-,False
+4obi_A,train,106,"N-utilization substance G protein NusG, insert domain",True
+4ojl_C,train,776,"-"", ""Single-stranded right-handed beta-helix, Pectin lyase-like"", ""-"", ""-",False
+2ie6_A,train,318,"Annexin"", ""Annexin"", ""Annexin"", ""Annexin",False
+3frr_A,train,191,Vacuolar protein sorting-associated protein Ist1,False
+5dje_A,train,140,-,False
+3rt4_A,train,171,Peptidoglycan recognition protein-like,False
+3lui_B,train,115,Phox-like domain,False
+4ftf_A,train,112,-,True
+3nqi_A,train,246,"NigD-like N-terminal OB domain"", ""-",True
+1qau_A,train,112,-,False
+8b3w_A,train,360,-,False
+1xsz_A,train,356,"-"", ""Arf Nucleotide-binding Site Opener,domain 2"", ""sec7 domains",False
+4g94_B,valid,198,-,False
+7n0j_A,train,101,-,False
+4exo_A,train,146,PAS domain,True
+1h16_A,train,759,-,True
+3e4w_B,train,320,"-"", ""Catalase core domain",False
+2fb5_B,train,205,"YojJ-like"", ""DNA integrity scanning protein, DisA, N-terminal domain",False
+1ng6_A,valid,148,"-"", ""Uncharacterised protein YqeY/AIM41 PF09424, N-terminal domain",False
+3kz7_A,valid,119,-,True
+2p3p_A,train,207,-,False
+7w81_B,test,181,-,False
+1tuk_A,train,67,Plant lipid-transfer and hydrophobic proteins,False
+5noh_B,train,103,-,False
+2qmj_A,train,870,"Golgi alpha-mannosidase II"", ""Golgi alpha-mannosidase II"", ""glycosyl hydrolase (family 31)"", ""Glycosidases"", ""Spasmolytic Protein, domain 1",True
+6exa_B,train,235,-,False
+3kef_B,train,326,"-"", ""4-hydroxy-3-methylbut-2-enyl diphosphate reductase, catalytic domain"", ""4-hydroxy-3-methylbut-2-enyl diphosphate reductase, catalytic domain",False
+6l34_A,train,68,-,True
+1cvr_A,train,435,"Immunoglobulins"", ""-"", ""Gingipain r; domain 1",False
+5wfy_A,train,136,-,True
+4k2m_A,train,443,"Type I PLP-dependent aspartate aminotransferase-like (Major domain)"", ""Aspartate Aminotransferase, domain 1",True
+3iis_M,train,151,Peridinin-chlorophyll A binding,False
+1fs1_C,train,53,-,False
+1c1k_A,test,217,"-"", ""Bacteriophage T4, Gp59, helicase assembly protein, C-terminal domain",True
+6xrx_A,train,554,-,True
+1wlg_A,train,299,Flagellar hook protein FlgE,False
+4qtq_A,train,214,-,True
+1l5o_A,train,356,"-"", ""-",True
+5j2l_B,test,81,-,True
+6in7_A,train,81,-,True
+3e2d_A,valid,502,"Alkaline phosphatase, crown domain"", ""Alkaline Phosphatase, subunit A"", ""Alkaline phosphatase, crown domain, central beta-sheet"", ""-",False
+3a3d_B,train,453,"DD-peptidase/beta-lactamase superfamily"", ""D-Ala-D-Ala carboxypeptidase C, peptidase S13",False
+1huf_A,train,140,"Protein-tyrosine phosphatase, YopH, N-terminal domain",True
+1wf3_A,train,301,"-"", ""P-loop containing nucleotide triphosphate hydrolases",False
+2hq4_B,train,161,PH1570-like,False
+3dso_A,train,74,Copper resistance protein K,True
+1n7z_B,train,334,"baseplate structural protein gp8, domain 1"", ""baseplate structural protein gp8, domain 2",False
+1ugp_B,train,226,"Nitrile hydratase, beta subunit"", ""-",False
+4cjn_A,valid,642,"NTF2-like; domain 1"", ""Penicillin-binding protein 2a; domain 3"", ""DD-peptidase/beta-lactamase superfamily"", ""Penicillin-binding protein 2a (Domain 2)",False
+2bmo_B,train,194,-,False
+2h2z_A,train,306,"main proteinase (3clpro) structure, domain 3"", ""Trypsin-like serine proteases"", ""Trypsin-like serine proteases",False
+1eb0_A,train,147,"Urease metallochaperone UreE, N-terminal domain"", ""UreE, C-terminal domain",False
+7r79_B,test,78,-,False
+1r5l_A,train,262,"N-terminal domain of phosphatidylinositol transfer protein sec14p"", ""Alpha-tocopherol transfer"", ""CRAL-TRIO lipid binding domain",True
+5njb_B,valid,450,PmbA/TldD superfamily,False
+5m45_K,train,717,-,True
+2o7o_A,test,207,"Homeodomain-like"", ""Tetracycline Repressor, domain 2",True
+1v9m_A,train,323,"ATP synthase (C/AC39) subunit, domain 3"", ""V-type ATP synthase subunit C domain"", ""V-type ATP synthase subunit C domain",True
+1l2w_J,valid,69,-,False
+2vri_A,valid,174,"Leucine Aminopeptidase, subunit E, domain 1",True
+2q9r_A,test,200,YP_001051499.1 domain like,True
+2bf6_A,train,449,"Intramolecular Trans-sialidase; Domain 3"", ""-",True
+7mi2_A,test,153,-,False
+2jhq_A,train,226,Uracil-DNA glycosylase-like domain,False
+1lr0_A,train,129,-,True
+2a6s_B,test,84,RelE-like,False
+1zw0_G,train,66,"Immunoglobulin FC, subunit C",False
+4tsh_A,test,121,-,True
+7nru_A,train,257,-,False
+2qsk_A,train,95,-,True
+5wvo_C,train,250,-,True
+3a6d_F,train,260,Creatininase,False
+1r8m_E,train,203,"-"", ""Arf Nucleotide-binding Site Opener,domain 2",True
+2cxi_B,train,348,"-"", ""-"", ""Phenylalanyl-trna Synthetase, Chain B, domain 3",True
+2zfz_D,train,79,-,False
+2db7_B,train,64,-,False
+2eo4_A,train,149,HIT-like,True
+3a1g_B,train,40,-,True
+3dnh_B,train,258,"Electron Transport, Fmn-binding Protein; Chain A"", ""PNP-oxidase-like",True
+2nuk_A,train,141,Rieske [2Fe-2S] iron-sulphur domain,True
+4zds_B,train,134,DNA-binding domain of EIN3-like,True
+3jsz_A,train,525,"-"", ""Glycosyltransferase family 88, C-terminal domain",True
+1j77_A,train,209,Heme oxygenase-like,True
+4q7o_B,train,146,-,True
+4myy_A,train,85,-,True
+2ozl_A,train,365,-,False
+3f4m_A,train,161,Tumor necrosis factor alpha-induced protein 8-like,False
+6dgk_B,train,120,"Influenza virus non-structural protein, effector domain",True
+3pkz_A,test,124,"Resolvase, N-terminal catalytic domain",True
+5ftw_A,train,256,Vaccinia Virus protein VP39,True
+4b2f_A,train,214,Bbcrasp-1,True
+6tgk_C,train,105,-,False
+2pu3_A,train,211,-,True
+5b5i_B,train,74,-,True
+1n7z_A,train,334,"baseplate structural protein gp8, domain 1"", ""baseplate structural protein gp8, domain 2",True
+4ics_A,train,413,Thermophilic metalloprotease (M29),False
+1ojh_C,train,65,Phycobilisome degradation protein NblA,True
+2jc5_A,train,259,Endonuclease/exonuclease/phosphatase,True
+2v05_A,valid,311,"Cholin Binding"", ""-",True
+5imu_A,train,227,-,True
+3o0g_D,test,149,Cyclin-like,False
+3ohg_A,train,285,-,True
+5ggl_A,train,164,-,True
+2gib_A,train,103,-,False
+3fm2_A,valid,135,HemS/ChuS/ChuX like domains,False
+6sup_A,train,2128,-,True
+2xeu_A,train,64,"Zinc/RING finger domain, C3HC4 (zinc finger)",False
+3f7w_A,train,288,"Transferase(Phosphotransferase) domain 1"", ""-"", ""Phosphorylase Kinase; domain 1",True
+7ned_A,train,546,-,True
+4e1p_B,train,61,"Lsr2, dimerization domain",False
+4zmk_A,train,71,-,True
+3wvz_B,train,201,-,False
+3pkz_B,valid,124,"Resolvase, N-terminal catalytic domain",False
+5kdw_B,test,885,-,False
+2qsa_A,train,109,DnaJ domain,True
+4m0q_B,train,230,-,False
+6pnv_A,train,411,-,True
+4y7s_B,train,111,-,False
+4koq_A,train,180,Transcriptional Coactivator Pc4; Chain A,True
+5t2p_D,train,155,"Viral capsid, core domain supefamily, Hepatitis B virus",False
+1w2w_E,train,211,"translation initiation factor eif-2b, domain 1",False
+2pef_A,train,373,"Alpha-1-antitrypsin, domain 1"", ""Antithrombin, subunit I, domain 2",False
+2xu8_B,train,116,Domain of unknown function (DUF5086),False
+3k29_A,train,169,-,False
+1vbw_A,test,68,"Trypsin Inhibitor V, subunit A",True
+1tzv_A,train,142,NusB-like,False
+4rgi_A,train,73,-,True
+2qq4_B,train,138,-,False
+2qqc_D,train,112,"Pyruvoyl-Dependent Histidine Decarboxylase, subunit B",False
+4rr9_A,train,136,D-tyrosyl-tRNA(Tyr) deacylase,True
+1g38_D,test,393,"Vaccinia Virus protein VP39"", ""Adenine-n6-DNA-methyltransferase Taqi, Chain A, domain 2",False
+1sx3_A,train,525,"GroEL-like equatorial domain"", ""TCP-1-like chaperonin intermediate domain"", ""GroEL",True
+1jyo_F,train,105,non globular Virulence effector SptP domain,True
+2z5e_B,train,122,-,False
+3gkj_A,train,232,-,True
+7s94_C,train,98,-,False
+2gs5_A,train,198,VC0467-like,True
+7mfu_A,train,197,-,False
+4h9q_C,train,212,-,False
+2pv4_A,train,145,Sama2622-like,True
+2hqk_A,train,221,Green fluorescent protein,True
+1uz3_B,train,102,ENT domain,False
+2vmc_A,train,257,"-"", ""Galactose-binding domain-like",True
+1k5n_A,train,276,"Immunoglobulins"", ""MHC class I-like antigen recognition-like",False
+3kd4_B,train,506,"-"", ""-"", ""-",False
+1wpb_L,train,172,"Helix hairpin bin"", ""yfbu gene product, domain 2",False
+4jgi_B,train,211,"Methionine synthase domain"", ""Cobalamin-binding domain",False
+2b0t_A,train,738,-,True
+1qdd_A,train,144,"Mannose-Binding Protein A, subunit A",True
+4m37_A,train,343,"Hnrnp arginine n-methyltransferase1"", ""Vaccinia Virus protein VP39",True
+1chd_A,train,203,"Methylesterase CheB, C-terminal domain",True
+2foz_A,valid,347,ADP-ribosylation/Crystallin J1,False
+3x0g_A,train,93,Tetraspanin,True
+3e8t_A,train,220,Haemolymph juvenile hormone binding protein,False
+3do6_A,train,543,"Formyltetrahydrofolate synthetase, domain 3"", ""Domain 2, N(10)-formyltetrahydrofolate synthetase"", ""P-loop containing nucleotide triphosphate hydrolases",False
+2fzp_A,train,144,-,True
+4fhr_B,train,216,"-"", ""-",True
+3ol3_A,test,107,"-"", ""-",True
+3o6p_A,train,229,Dipeptide-binding Protein; Domain 3,True
+5exe_C,train,314,-,False
+1xeo_A,train,168,Peptide deformylase,True
+6y43_A,train,222,-,False
+4bgp_A,test,236,"Bunyavirus nucleocapsid (N) protein, C-terminal domain"", ""-",True
+1ocy_A,train,198,"Phage tail collar domain"", ""receptor-binding domain of the bacteriophage t4 short tail fibre, domain 2",True
+7mf4_A,train,554,-,True
+1xta_A,train,221,"Crisp domain"", ""CAP",True
+2ox7_B,train,155,"YopX-like domains"", ""YopX-like domains",False
+2icu_A,train,229,SOS response associated peptidase-like,False
+3ipj_A,train,95,Glucose permease domain IIB,False
+2gkr_I,train,51,-,True
+5iff_B,train,220,-,False
+4psf_B,train,138,-,False
+1ssq_D,train,267,"serine acetyltransferase, domain 1"", ""Hexapeptide repeat proteins",True
+1o0s_A,valid,605,"-"", ""NAD(P)-binding Rossmann-like Domain"", ""Malic enzyme, N-terminal domain"", ""-",False
+4oa3_A,test,146,-,False
+1m7v_A,train,363,"Nitric Oxide Synthase; Chain A, domain 1"", ""Nitric Oxide Synthase;Heme Domain;Chain A domain 2"", ""Nitric Oxide Synthase; Chain A, domain 3",False
+2yp8_A,train,503,"-"", ""-",True
+1y6i_A,valid,233,"Gun4-like"", ""-",False
+3ka5_A,train,65,-,True
+3g5k_D,train,183,Peptide deformylase,False
+2x8w_A,train,132,Methylglyoxal synthase-like domain,False
+3ofg_A,test,95,-,False
+3zl8_A,train,437,"Mur-like, catalytic domain"", ""MurE/MurF, N-terminal domain"", ""Mur ligase, C-terminal domain",True
+1svb_A,test,395,"-"", ""Tick-borne Encephalitis virus Glycoprotein, domain 1"", ""Viral Envelope Glycoprotein, domain 2"", ""Viral Envelope Glycoprotein, domain 3",True
+5ol4_A,train,100,"Urease, gamma-like subunit",False
+3ipf_B,valid,71,-,False
+2vzc_A,train,131,Calponin-like domain,False
+1md6_A,train,154,-,False
+1hc9_B,train,74,CD59,False
+6pce_A,train,70,-,False
+2py5_A,train,575,"Helix hairpin bin"", ""Ribonuclease H-like superfamily/Ribonuclease H"", ""TPR 1 domain of DNA polymerase"", ""Palm domain of DNA polymerase"", ""DNA polymerase; domain 5"", ""DNA polymerase; domain 6",True
+1oh9_A,train,258,Acetylglutamate kinase-like,True
+5bs1_B,valid,123,Chaperonin-like RbcX,False
+5btz_A,train,139,-,True
+3emi_A,train,116,Trimeric adhesin,True
+3npd_A,train,118,-,False
+3m7a_A,train,140,Protein of unknown function DUF192,True
+5erq_A,train,419,"MoeA, C-terminal, domain IV"", ""Molybdopterin biosynthesis moea protein, domain 3."", ""MoaB/Mog-like domain"", ""Molybdopterin biosynthesis moea protein, domain 2",False
+1d4t_A,train,104,SH2 domain,False
+2pbi_C,test,424,"Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain"", ""Regulator of G-protein Signalling 4, domain 2"", ""-"", ""Transducin (heterotrimeric G protein), gamma chain",False
+2vac_A,train,134,Severin,True
+1q7e_A,valid,428,"formyl-coa transferase, domain 3"", ""Crotonobetainyl-coa",False
+6p5h_A,train,105,-,True
+6h86_A,train,88,-,True
+3mqz_A,train,215,Protein of unknown function DUF1054,True
+1x6i_A,train,91,Flavinator of succinate dehydrogenase,False
+3rzn_A,train,209,Glycolipid transfer protein,False
+6yud_B,valid,111,-,False
+3hvv_A,train,167,Glutaredoxin,False
+2r2d_A,valid,276,Ribonuclease Z/Hydroxyacylglutathione hydrolase-like,False
+5o9e_A,train,201,-,False
+2xse_A,train,170,"JBP1, DNA-binding domain",True
+1pp0_C,train,199,Delta-endotoxin CytB-like,False
+2oxl_B,train,64,-,True
+5en2_C,train,141,-,False
+4jo7_C,train,89,-,False
+4ytw_C,train,81,-,True
+3eqx_A,train,373,-,False
+5ok6_A,train,230,-,False
+2gwm_A,train,200,"Toxin ADP-ribosyltransferase; Chain A, domain 1",True
+2cg7_A,train,90,"Complement Module, domain 1"", ""Complement Module, domain 1",True
+3vth_A,train,761,"-"", ""-"", ""-"", ""-",True
+1jmx_G,valid,79,"Quinohemoprotein amine dehydrogenase, gamma subunit structural domain",False
+5b3p_A,train,134,NADH,True
+5x1e_D,train,111,-,True
+1o1x_A,train,155,"Sugar-phosphate isomerase, RpiB/LacA/LacB",True
+4fch_B,test,221,"-"", ""-",True
+6jwh_A,train,473,-,True
+3k5j_A,test,183,-,True
+2vm5_A,valid,106,Inhibitor Of Apoptosis Protein (2mihbC-IAP-1); Chain A,True
+1f3u_G,train,118,-,True
+4rp5_A,train,98,-,True
+7jrq_A,train,131,-,True
+1vzy_B,test,291,"Hsp33 domain"", ""HSP33 redox switch-like",True
+6uxe_B,train,91,-,False
+3d7a_B,train,138,-,True
+2arz_A,test,247,"Electron Transport, Fmn-binding Protein; Chain A"", ""PNP-oxidase-like",False
+2vh3_A,train,113,-,True
+6tly_A,train,99,-,False
+5h6x_A,train,100,-,True
+3lgb_B,test,194,-,False
+4u9b_A,train,187,H-NOX domain,True
+5y4z_A,train,440,"P-loop containing nucleotide triphosphate hydrolases"", ""P-loop containing nucleotide triphosphate hydrolases",False
+2x63_A,valid,258,"Alpha-2,3-sialyltransferase",False
+3lpe_B,train,59,-,False
+7bhc_A,train,219,-,False
+7adr_C,train,113,-,False
+3e7h_A,train,103,-,False
+3ig9_B,test,78,Small outer capsid protein Soc,False
+5muy_A,train,328,-,False
+3wx4_A,valid,100,-,True
+1ptq_A,train,50,-,True
+1n2m_A,train,165,"Pyruvoyl-Dependent Histidine Decarboxylase, subunit B",True
+4bt9_B,train,239,"Tetratricopeptide repeat domain"", ""-",True
+2xf2_A,train,688,"-"", ""Catalase core domain"", ""-",False
+4n67_A,train,227,Fido-like domain,True
+1fx4_A,train,231,Nucleotide cyclase,True
+4erv_A,train,207,-,True
+3cjs_C,train,72,"Ribosomal protein L11/L12, N-terminal domain",False
+1vaj_A,valid,214,"Hypothetical protein ph0010; domain 1"", ""Hypothetical protein ph0010; domain 2",True
+7qsu_A,test,374,-,True
+2rdi_A,train,342,"5' to 3' exonuclease, C-terminal subdomain"", ""-"", ""DNA polymerase, Y-family, little finger domain"", ""-",True
+2w9y_A,train,140,-,True
+2dt8_A,train,280,"-"", ""-",True
+3bpj_C,test,80,Eukaryotic translation initiation factor 3 like domains,False
+3ii2_A,train,157,-,True
+7ubk_B,train,147,-,False
+3klr_A,train,125,-,True
+6mdw_A,train,194,-,True
+4p5a_B,train,239,-,False
+2xf5_B,train,51,-,False
+1yu5_X,train,67,Villin headpiece domain,True
+1m8s_A,train,124,Phospholipase A2 domain,True
+1sx3_B,train,525,"GroEL-like equatorial domain"", ""TCP-1-like chaperonin intermediate domain"", ""GroEL",False
+7qgs_A,train,96,-,False
+6qgr_B,train,291,-,False
+5i8j_A,train,64,-,True
+2wfp_A,train,394,"Phosphomannose Isomerase, domain 2"", ""Jelly Rolls"", ""Jelly Rolls",False
+3dha_A,test,254,Ribonuclease Z/Hydroxyacylglutathione hydrolase-like,True
+4gip_B,train,81,-,False
+1rl6_A,train,177,"Ribosomal protein L6, alpha-beta domain"", ""Ribosomal protein L6, alpha-beta domain",True
+2qdx_A,train,257,"Translation factors"", ""Nucleotide-binding domain of ferredoxin-NADP reductase (FNR) module",False
+3luu_A,train,101,-,True
+1ze3_D,train,125,-,False
+3tdt_A,train,274,"Tetrahydrodipicolinate-N-succinyltransferase, N-terminal domain"", ""Hexapeptide repeat proteins",False
+1rpo_A,train,65,-,False
+4jja_A,valid,371,-,True
+1t9i_B,test,163,Homing endonucleases,False
+2v0u_A,train,146,PAS domain,True
+4gsj_A,train,291,-,True
+4geh_C,train,207,-,False
+3bec_A,train,363,"D-Ala-D-Ala carboxypeptidase, C-terminal domain"", ""DD-peptidase/beta-lactamase superfamily",True
+6bk4_A,valid,124,-,True
+2b9d_A,train,52,-,True
+3zdm_A,test,72,"Immunoglobulin FC, subunit C",True
+4qxo_A,valid,188,"-"", ""Stimulator of interferon genes protein",True
+1wq8_A,valid,110,Cystine-knot cytokines,True
+6c0h_A,train,121,-,True
+2gc4_B,train,131,Methylamine/Aralkylamine dehydrogenase light chain,True
+2f6e_A,train,127,Cholin Binding,False
+4bt9_A,train,239,"Tetratricopeptide repeat domain"", ""-",False
+5w53_A,train,307,-,False
+1b2s_F,train,90,Barstar-like,False
+3fgh_A,train,67,High mobility group box domain,False
+1v2z_A,train,111,KaiA/RbsU domain,False
+1ab1_A,valid,46,Thionin-like,True
+2zwd_A,train,281,Di-copper center containing domain from catechol oxidase,True
+4xo2_A,train,60,-,False
+2z4u_A,train,261,"Ricin (A subunit), domain 1"", ""Ricin (A Subunit), domain 2",True
+4na5_A,train,522,-,True
+1hoe_A,train,74,Alpha-amylase inhibitor,False
+7rsa_A,test,124,Ribonuclease A-like domain,False
+2xrh_A,train,100,HP0721 helical bundle,True
+2x9o_A,test,244,-,True
+1pcf_C,train,66,Transcriptional Coactivator Pc4; Chain A,False
+4z8t_B,train,98,-,False
+1fm4_A,train,159,-,True
+4xdu_A,train,340,ApbE-like domains,True
+3ov5_A,train,85,-,True
+1s2o_A,train,244,"HAD superfamily/HAD-like"", ""-",False
+1cpq_A,valid,129,Cytochrome c/b562,True
+4z8q_B,test,98,-,True
+3imk_A,train,158,-,True
+3crv_A,train,551,"-"", ""P-loop containing nucleotide triphosphate hydrolases"", ""P-loop containing nucleotide triphosphate hydrolases",True
+4qaz_A,train,103,-,False
+2ycl_A,train,445,"Dihydropteroate synthase-like"", ""-",True
+5ltj_A,train,714,-,True
+2pyq_B,train,114,Jann4075-like,True
+7w81_A,test,181,-,False
+2ed6_A,train,170,WSSV envelope protein-like,True
+1jo0_A,train,98,YhbY-like,False
+7s58_D,test,85,-,False
+2vkp_B,train,109,Potassium Channel Kv1.1; Chain A,False
+2wbf_X,test,265,Cysteine proteinases,True
+3zoq_B,train,56,-,False
+2e5y_B,train,133,"ATP synthase delta/epsilon subunit, C-terminal domain"", ""F0F1 ATP synthase delta/epsilon subunit, N-terminal",True
+6wqd_B,train,122,-,False
+2cwy_A,train,94,TTHA0068-like,False
+1nh2_B,train,53,-,True
+2ia1_B,valid,178,"Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain"", ""BH3703-like domains",False
+1lsl_A,test,113,"Thrombospondin type-1 (TSP1) repeat"", ""Thrombospondin type-1 (TSP1) repeat",True
+2au7_A,valid,175,Inorganic pyrophosphatase,False
+4ndt_A,train,94,-,True
+4mmj_A,valid,95,RelE-like,True
+5ef9_A,train,174,-,False
+3nke_B,train,200,"CRISPR-associated endonuclease Cas1, C-terminal domain",True
+1uwk_B,train,557,"Urocanase like domains"", ""Urocanase superfamily",False
+3las_B,train,166,Carbonic anhydrase,False
+7nmq_A,train,365,-,True
+2oy9_B,train,98,BH2638-like,True
+3im3_A,test,50,"cAMP-dependent protein kinase regulatory subunit, dimerization-anchoring domain",True
+2ia1_A,train,178,"Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain"", ""BH3703-like domains",True
+1thm_A,train,279,Peptidase S8/S53 domain,False
+1lwb_A,train,122,Phospholipase A2 domain,False
+3mxz_A,valid,116,-,True
+5dmu_A,test,301,-,True
+1zjc_A,valid,418,Thermophilic metalloprotease (M29),True
+1o75_A,train,415,"Penicillin-binding protein Tp47, domain B"", ""Penicillin-binding protein Tp47, domain D"", ""Penicillin-binding protein Tp47, domain C"", ""Penicillin-binding protein Tp47, domain A",True
+4zqv_A,train,175,NMB0488-like,False
+6nl2_A,train,594,-,True
+6a02_A,train,185,"YfdX protein domain"", ""-",True
+2waw_A,train,199,Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A,True
+2wzb_A,train,416,"Phosphoglycerate kinase, N-terminal domain"", ""Phosphoglycerate kinase, N-terminal domain",False
+2hxm_A,valid,223,Uracil-DNA glycosylase-like domain,True
+3u9g_A,train,229,Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain,True
+3w1o_A,train,119,-,False
+1vk1_A,train,242,"Conserved hypothetical protein from pyrococcus furiosus pfu- 392566-001, domain 2"", ""Conserved hypothetical protein from pyrococcus furiosus pfu- 392566-001, ParB domain",True
+6tj6_C,train,46,-,False
+1h99_A,train,224,"PRD domain"", ""PRD domain",True
+1v7z_F,train,260,Creatininase,True
+1yqw_B,test,264,"NADH"", ""Cytochrome-c3 hydrogenase, C-terminal domain",False
+8bnt_B,valid,245,-,False
+3dff_A,valid,273,LmbE-like,True
+3enu_A,train,114,Crystallins,False
+1llf_B,train,534,alpha/beta hydrolase,False
+3lbl_A,train,95,SWIB/MDM2 domain,False
+5l0s_A,train,357,-,True
+1q0q_A,train,406,"-"", ""NAD(P)-binding Rossmann-like Domain",False
+5kts_A,train,304,"NadA-like"", ""NadA-like"", ""NadA-like",True
+1ojh_D,train,65,Phycobilisome degradation protein NblA,False
+2au3_A,train,407,"-"", ""-"", ""Zinc finger, CHC2-type domain"", ""DNA primase, catalytic core, N-terminal domain",True
+2h7g_X,train,314,"DNA topoisomerase I domain"", ""Topoisomerase I; Chain A, domain 3",False
+1vyi_A,train,112,"Phosphoprotein, C-terminal domain",True
+2po4_A,valid,1104,"-"", ""-"", ""-"", ""-"", ""-"", ""-",True
+2v27_A,train,275,Aromatic amino acid hydroxylase,False
+2bw3_B,train,84,"Zinc finger, BED domain-containing",True
+6fc0_B,train,81,-,True
+2e7u_A,test,424,"Type I PLP-dependent aspartate aminotransferase-like (Major domain)"", ""Aspartate Aminotransferase, domain 1",True
+3fbl_A,train,82,-,True
+3eh1_A,train,751,"Sec23/Sec24 helical domain"", ""Zn-finger domain of Sec23/24"", ""beta-sandwich domain of Sec23/24"", ""Severin"", ""von Willebrand factor, type A domain",True
+3wp8_A,train,330,"Serralysin-like metalloprotease, C-terminal",False
+4k05_B,train,399,"Uncharacterised protein PF07075, DUF1343"", ""-",False
+2fip_A,train,115,"Phi-29-like late genes activator, P4",True
+4zce_B,train,50,-,False
+2vh3_B,train,113,-,False
+5x0b_A,train,242,"Conserved hypothetical protein from pyrococcus furiosus pfu- 392566-001, domain 2"", ""Conserved hypothetical protein from pyrococcus furiosus pfu- 392566-001, ParB domain",False
+4o87_A,train,320,-,True
+5uc0_A,test,163,-,False
+1o98_A,train,511,"Alkaline Phosphatase, subunit A"", ""BPG-independent phosphoglycerate mutase, domain B",False
+3a1u_A,train,258,"-"", ""P-loop containing nucleotide triphosphate hydrolases",False
+3tee_A,test,219,-,False
+4epi_A,train,330,-,True
+1l9l_A,test,74,Saposin-like,True
+6qj0_A,test,412,-,True
+3lq9_A,valid,134,RTP801-like,True
+6l4p_B,test,145,-,True
+2fe5_A,train,94,-,True
+1f5n_A,train,592,"Guanylate-binding protein, C-terminal domain"", ""P-loop containing nucleotide triphosphate hydrolases",True
+7jfl_D,train,47,-,False
+6cb7_A,test,122,-,True
+3zr8_X,train,65,-,True
+5b1n_A,valid,69,-,True
+4ead_A,train,440,"Transferase, Pyrimidine Nucleoside Phosphorylase; Chain C"", ""Nucleoside phosphorylase/phosphoribosyltransferase catalytic domain"", ""Pyrimidine nucleoside phosphorylase-like, C-terminal domain",False
+2hnu_B,train,81,Neurohypophysial hormone domain,False
+3gmv_X,valid,156,BLIP domain,True
+2it2_B,train,200,tRNA wybutosine-synthesizing-like,True
+5xbc_B,test,118,-,False
+3vhj_A,train,172,-,False
+3a1g_D,test,40,-,False
+4geh_A,train,207,-,True
+1xmk_A,train,79,Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain,True
+5x1e_A,test,110,-,False
+4lur_A,valid,309,-,False
+3zfn_A,train,148,"Pestivirus Npro endopeptidase C53, interaction domain",True
+7la6_A,train,221,-,True
+3ti2_A,train,228,Enolpyruvate transferase domain,False
+1qlm_A,train,316,"Methenyltetrahydromethanopterin Cyclohydrolase; Chain A, domain 1"", ""Methenyltetrahydromethanopterin Cyclohydrolase; Chain A, domain 2",True
+4mb5_A,train,528,"Carbohydrate-binding module superfamily 5/12"", ""Immunoglobulins"", ""Immunoglobulins"", ""Glycosidases",True
+4omf_B,valid,281,-,True
+2o70_F,train,174,Oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase,False
+6pxz_B,train,104,-,True
+1g81_A,train,164,Chorismate lyase-like,False
+3bjd_B,train,332,"Lytic transglycosylase, superhelical linker domain"", ""Heme oxygenase-like",True
+2zd2_B,train,234,"ATP12 ATPase"", ""ATP12-like",False
+1ve0_A,train,134,YjbQ-like,True
+6rwt_A,train,184,-,True
+3sws_E,train,137,Methylamine/Aralkylamine dehydrogenase light chain,False
+3mm6_A,train,418,"-"", ""-"", ""Sulfite Reductase Hemoprotein, domain 1"", ""-",False
+3ilw_A,train,470,-,True
+6vr8_I,test,483,-,False
+2qcu_B,train,501,"Alpha-glycerophosphate oxidase, cap domain"", ""D-Amino Acid Oxidase, subunit A, domain 2"", ""FAD/NAD(P)-binding domain"", ""-",True
+1gqe_A,train,365,"Release factor"", ""-"", ""-",True
+1p5g_X,test,463,"Alpha-D-phosphohexomutase, C-terminal domain"", ""Alpha-D-Glucose-1,6-Bisphosphate, subunit A, domain 3"", ""Alpha-D-Glucose-1,6-Bisphosphate, subunit A, domain 3"", ""Alpha-D-Glucose-1,6-Bisphosphate, subunit A, domain 3",True
+4fbs_A,train,137,-,False
+2ccq_A,train,99,-,True
+3omd_B,train,145,-,True
+1xg0_A,train,76,Phycoerythrin alpha chain,True
+1q8f_A,train,313,Ribonucleoside hydrolase-like,False
+1utg_A,train,70,Secretoglobin,True
+3pf6_A,train,62,-,True
+2xc1_B,train,666,"-"", ""Phage P22 tailspike-like, N-terminal domain",False
+1ifg_A,test,140,Ecotin,True
+5xct_B,train,163,-,True
+1fn9_B,test,365,"Outer-capsid protein sigma 3, large lobe"", ""Outer-capsid protein sigma 3, small lobe",False
+1mk0_A,train,97,GIY-YIG endonuclease,True
+2fef_A,train,294,"PA2201 C-terminal domain-like"", ""PA2201 N-terminal domain-like",False
+2yjg_A,train,436,"-"", ""-",True
+7snb_A,train,228,-,False
+3ijw_A,train,268,-,False
+4ehx_A,train,315,-,True
+2jdd_A,test,146,-,True
+1zd7_B,train,159,Hedgehog/Intein (Hint) domain,False
+3qc7_A,train,179,-,True
+1ka1_A,train,357,"Fructose-1,6-Bisphosphatase, subunit A, domain 1"", ""-",True
+3ig9_C,train,78,Small outer capsid protein Soc,True
+1h8e_G,train,272,"ATP synthase, gamma subunit, helix hairpin domain"", ""-",True
+4wlr_B,train,102,-,True
+4lzh_A,test,285,-,True
+1tg7_A,valid,971,"Galactose-binding domain-like"", ""Galactose-binding domain-like"", ""Beta-galactosidase, domain 3"", ""Beta-galactosidase, domain 2"", ""Glycosidases",True
+4n7w_B,test,307,-,False
+2y1y_A,train,90,-,True
+3iiu_M,train,151,Peridinin-chlorophyll A binding,True
+3zzo_A,train,95,-,True
+3l51_B,train,166,-,True
+1yoc_B,valid,147,Hotdog Thioesterase,False
+3gnu_P,test,213,-,True
+4v4e_M,train,875,-,False
+3fpn_A,train,119,-,True
+3pt1_A,train,471,-,True
+6vg5_A,train,81,-,False
+3obl_B,train,132,-,False
+3fh2_A,train,146,"Clp, N-terminal domain",False
+1ugp_A,train,203,Nitrile hydratase alpha /Thiocyanate hydrolase gamma,True
+4h4n_A,valid,67,-,True
+4j8c_B,valid,46,-,False
+3zzr_A,train,95,-,False
+1xvg_E,test,170,"Methane monooxygenase, gamma chain, domain 1"", ""Methane monooxygenase, gamma chain, domain 2",True
+5opm_A,train,478,-,False
+2vg3_C,train,284,Decaprenyl diphosphate synthase-like,True
+6eu8_A,train,196,-,True
+6e5y_A,train,448,"-"", ""HUPs"", ""Argininosuccinate synthetase, chain A, domain 2",True
+4j8c_A,train,46,-,True
+4p3x_A,train,305,"NadA-like"", ""NadA-like"", ""NadA-like",False
+1koe_A,train,172,"Mannose-Binding Protein A, subunit A",False
+2ygs_A,train,92,"Death Domain, Fas",False
+3hlz_A,test,269,"-"", ""Mog1/PsbP, alpha/beta/alpha sandwich",False
+3bqp_B,train,80,Saposin-like,False
+5eqz_A,train,146,-,True
+1yoz_A,train,116,AF0941-like,False
+5jfc_L,train,474,-,False
+1xhk_B,train,187,-,False
+3b4q_A,train,94,conserved protein domain from corynebacterium diphtheriae,False
+5fia_B,train,402,-,False
+3qfl_A,train,115,-,True
+5jbg_A,train,680,-,True
+3vc8_A,train,94,Coronavirus nonstructural protein 4 C-terminus,False
+3ld7_B,train,101,"N-utilization substance G protein NusG, insert domain",False
+2o74_F,train,174,Oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase,True
+2c9i_D,train,228,Green fluorescent protein,False
+3jsy_A,train,213,"-"", ""-",False
+3qc5_X,train,360,"-"", ""-"", ""-",True
+5ygh_A,train,76,-,True
+2ex2_A,train,458,"DD-peptidase/beta-lactamase superfamily"", ""D-Ala-D-Ala carboxypeptidase C, peptidase S13",True
+2oqz_A,train,223,Sortase,False
+2hyv_A,train,308,"Annexin"", ""Annexin"", ""Annexin"", ""Annexin",True
+2ad6_A,valid,571,Quinoprotein alcohol dehydrogenase-like superfamily,False
+4kct_B,test,499,"Phosphoenolpyruvate-binding domains"", ""Pyruvate kinase, C-terminal domain",True
+3ouf_B,train,97,-,False
+4ued_B,train,38,-,False
+5bnh_A,test,123,-,True
+4ew5_B,train,102,inner membrane protein cigr,False
+3m6z_A,train,380,"-"", ""-",False
+3qra_A,train,157,-,True
+3u5v_A,test,76,Helix-loop-helix DNA-binding domain,True
+2fi9_A,test,128,MTH938-like,False
+3mfd_A,train,334,"-"", ""DD-peptidase/beta-lactamase superfamily",False
+3msw_A,train,145,-,True
+3h8t_A,test,191,-,False
+1ijx_C,train,127,Frizzled cysteine-rich domain,False
+6wzw_A,train,226,-,False
+1qz4_A,train,213,HflD-like,False
+3ldu_A,train,385,"-"", ""Vaccinia Virus protein VP39",True
+4qx8_C,train,329,Cupin,False
+3q1c_A,valid,360,"EspG protein, N-terminal domain",True
+6spt_A,train,69,-,False
+2dlb_A,train,80,Protein of unknown function YopT,True
+16pk_A,train,415,"Phosphoglycerate kinase, N-terminal domain"", ""Phosphoglycerate kinase, N-terminal domain",True
+1bgf_A,valid,124,"STAT transcription factor, N-terminal domain",True
+3whj_A,train,122,-,False
+1xkr_A,train,206,CheC-like,True
+1fxo_G,train,293,Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A,False
+7c45_A,train,302,-,True
+1bxy_B,train,60,"Ribosomal protein L30, ferredoxin-like fold domain",False
+2wcu_A,test,149,RbsD-like domain,False
+6ao8_A,train,580,-,True
+1yib_A,train,76,-,False
+1yu2_A,valid,381,"-"", ""Tail fiber receptor-binding protein"", ""paralog of FGE (formylglycine-generating enzyme)",False
+2i6d_A,train,257,"-"", ""-",False
+6sms_A,train,724,-,True
+4n7w_A,train,307,-,False
+4z3x_A,test,653,"Aldehyde Ferredoxin Oxidoreductase Protein, subunit A, domain 2"", ""Aldehyde ferredoxin oxidoreductase, N-terminal domain",True
+6iah_A,train,240,-,True
+2igp_A,train,120,"Ncd80 complex, Ncd80 subunit",True
+1g7t_A,train,594,"Translation factors"", ""Translation factors"", ""P-loop containing nucleotide triphosphate hydrolases"", ""Translation initiation factor IF- 2, domain 3",False
+1z0b_A,train,207,-,True
+4qlp_A,train,176,-,False
+1z2u_A,test,150,Ubiquitin Conjugating Enzyme,True
+3ajf_A,train,94,Tenuivirus movement protein,True
+4lim_A,train,391,"DNA primase, PRIM domain",True
+6ne6_A,test,329,-,False
+1g2r_A,train,100,YlxR-like,True
+3h1w_A,train,393,"Phosphomannose Isomerase, domain 2"", ""Jelly Rolls"", ""Jelly Rolls",True
+1kp3_A,train,455,"-"", ""HUPs"", ""Argininosuccinate synthetase, chain A, domain 2",False
+7zou_A,train,234,-,False
+2fhz_A,valid,109,-,True
+2bln_B,train,305,"Formyl transferase, C-terminal domain"", ""Formyl transferase, N-terminal domain",False
+4bcl_A,train,366,Bacteriochlorophyll A,False
+1hbn_E,train,442,"Methyl-coenzyme M reductase, alpha/beta subunit, C-terminal"", ""-",True
+6gfx_C,train,160,"von Hippel-Lindau disease tumour suppressor, alpha domain"", ""von Hippel-Lindau disease tumour suppressor,  beta domain",True
+3kde_C,train,77,THAP domain,False
+3tkk_A,train,301,-,False
+1skz_A,valid,119,"Antistasin; domain 1"", ""Antistasin; domain 1",False
+3nrw_A,valid,117,-,False
+1wui_S,test,267,"NADH"", ""Cytochrome-c3 hydrogenase, C-terminal domain",True
+4o7j_B,train,163,-,False
+1dvo_A,train,152,ProQ/FinO domain,True
+1pch_A,train,88,HPr-like,True
+3ono_A,train,214,"Sugar-phosphate isomerase, RpiB/LacA/LacB",False
+1mjf_B,train,281,"Spermidine synthase, tetramerisation domain"", ""Vaccinia Virus protein VP39",False
+1h17_A,train,759,-,False
+3dza_A,test,191,"YfdX protein domain"", ""-",False
+3pvh_A,train,153,-,True
+4xb6_H,train,281,-,True
+2uxy_A,train,341,Carbon-nitrogen hydrolase,False
+2oez_A,train,247,"YacF-like"", ""YacF-like domains",False
+1ef1_C,train,90,-,False
+3fpu_A,train,100,-,True
+2hu9_A,valid,130,"BFD-like [2Fe-2S]-binding domain"", ""-",True
+4cv4_A,test,133,-,True
+7aqx_A,train,364,-,True
+3kd4_A,train,506,"-"", ""-"", ""-",True
+3dau_A,test,159,"Dihydrofolate Reductase, subunit A",False
+2vnl_A,train,151,"Phage P22 tailspike-like, N-terminal domain",True
+5wbx_B,train,95,-,False
+2ot9_A,train,180,Restriction endonuclease-like alpha-beta roll domain,True
+6gus_A,train,155,-,True
+2pst_X,valid,74,"Structural Genomics, Unknown Function 30-nov-00 1gh9 Mol_id",True
+6q10_A,train,155,-,True
+1r0k_A,train,388,"-"", ""NAD(P)-binding Rossmann-like Domain",True
+5a0n_A,train,220,-,True
+2cx7_A,valid,130,SCP2 sterol-binding domain,False
+5ngd_B,train,417,-,True
+1egw_B,train,77,"Transcription factor, MADS-box",True
+5klh_A,train,231,-,True
+7n0j_E,train,101,-,True
+2y3w_B,train,182,"Spindle assembly abnormal protein 6, N-terminal domain",False
+5hqh_A,train,109,-,True
+1n8v_B,test,112,Insect odorant-binding protein A10/Ejaculatory bulb-specific protein 3,False
+2e6x_A,valid,69,Protein of unknown function DUF3248,True
+4ubp_C,valid,570,"Urease, subunit C, domain 1"", ""Metal-dependent hydrolases",False
+5lc8_A,train,667,-,False
+3gs9_A,train,342,"-"", ""-",True
+6qfk_A,train,1357,-,True
+3nis_B,train,82,-,False
+5e5y_C,train,63,-,True
+7mq3_A,train,85,-,False
+2rci_A,train,204,Delta-endotoxin CytB-like,True
+4mzv_A,test,248,-,True
+1gpj_A,train,404,"Glutamyl tRNA-reductase dimerization domain"", ""Glutamyl-tRNA reductase, N-terminal domain"", ""NAD(P)-binding Rossmann-like Domain",True
+5m1m_A,train,155,-,True
+6as3_B,train,106,-,False
+6p5h_B,train,105,-,False
+2pnw_A,train,380,"RlpA-like domain"", ""Barwin-like endoglucanases",True
+3hht_A,train,216,Nitrile hydratase alpha /Thiocyanate hydrolase gamma,False
+3a1g_A,train,80,-,True
+3agn_A,train,114,Microbial ribonucleases,True
+1g7s_A,train,594,"Translation factors"", ""Translation factors"", ""P-loop containing nucleotide triphosphate hydrolases"", ""Translation initiation factor IF- 2, domain 3",True
+3eoj_A,train,366,Bacteriochlorophyll A,True
+1j8e_A,train,44,Low-density Lipoprotein Receptor,True
+2wfr_A,train,165,-,True
+4p5a_A,train,239,-,True
+1v7r_A,train,186,-,False
+2jft_A,valid,234,PPM-type phosphatase domain,True
+7t9q_A,train,38,-,False
+6o2v_B,train,135,-,False
+1iuq_A,train,367,"Glycerol-3-phosphate acyltransferase, alpha helical bundle, N-terminal"", ""Glycerol-3-phosphate (1)-acyltransferase",True
+4gv2_A,train,357,"Poly(ADP-ribose) polymerase, regulatory domain"", ""-",True
+3dpg_B,train,338,-,False
+4b6i_D,train,102,-,True
+1wq6_A,test,72,-,True
+3i94_A,test,248,-,False
+2q2g_A,train,180,"Urease metallochaperone UreE, N-terminal domain"", ""Urease metallochaperone UreE, N-terminal domain",True
+2ovj_A,train,201,Rho GTPase activation protein,True
+1tez_B,valid,474,"DNA Cyclobutane Dipyrimidine Photolyase, subunit A, domain 3"", ""-"", ""HUPs",False
+2db7_A,train,64,-,True
+1u8v_C,train,490,"4-hydroxybutyryl-coa dehydratase, domain 1"", ""Butyryl-CoA Dehydrogenase, subunit A, domain 3"", ""Butyryl-CoA Dehydrogenase, subunit A, domain 2",False
+3kbb_A,train,216,"Putative phosphatase; domain 2"", ""HAD superfamily/HAD-like",True
+2at8_X,train,184,-,True
+3gwi_A,train,170,"Calcium-transporting ATPase, cytoplasmic domain N",True
+5cfl_A,train,187,"-"", ""Stimulator of interferon genes protein",False
+3ju4_A,train,670,"-"", ""-"", ""Endosialidase, N-terminal extension domain"", ""Endosialidase, domain 4",True
+2qud_A,train,125,MS2 Viral Coat Protein,False
+3c05_A,train,62,Disintegrin domain,False
+3v3l_A,train,85,-,True
+6jim_B,train,465,-,False
+2y1q_A,train,150,"Clp, N-terminal domain",True
+1wq6_B,train,72,-,False
+6fub_B,train,93,-,True
+3k6q_B,train,139,"-"", ""YefM-like domain",False
+2yvo_A,test,182,Nucleoside Triphosphate Pyrophosphohydrolase,False
+2nwv_A,train,114,XisI-like,True
+2ysk_A,train,145,Uncharacterized conserved protein DUF2267,True
+7dmn_A,train,377,-,True
+5yrv_I,test,137,"Propanediol/glycerol dehydratase, small subunit",True
+1uoy_A,train,64,-,True
+1pby_C,train,79,"Quinohemoprotein amine dehydrogenase, gamma subunit structural domain",True
+2xdg_A,valid,92,"GPCR, family 2, extracellular hormone receptor domain",False
+2ofz_A,test,138,-,True
+2qcu_A,train,501,"Alpha-glycerophosphate oxidase, cap domain"", ""D-Amino Acid Oxidase, subunit A, domain 2"", ""FAD/NAD(P)-binding domain"", ""-",False
+1qxo_B,valid,388,Chorismate synthase AroC,False
+4q6v_A,train,136,ABC-type transport auxiliary lipoprotein component,False
+1c96_A,train,753,"Aconitase, domain 4"", ""Aconitase, domain 3"", ""Aconitase, domain 3"", ""Aconitase, Domain 2",True
+3mil_A,train,240,SGNH hydrolase,False
+1rqj_A,train,299,Farnesyl Diphosphate Synthase,False
+1fk5_A,train,93,Plant lipid-transfer and hydrophobic proteins,True
+4cbe_A,train,218,-,True
+3fke_A,train,129,"Filoviridae VP35, C-terminal inhibitory domain, helical subdomain"", ""Filoviridae VP35, C-terminal inhibitory domain, beta-sheet subdomain",False
+2gke_A,train,274,"Diaminopimelate Epimerase; Chain A, domain 1"", ""Diaminopimelate Epimerase; Chain A, domain 1",False
+2xjq_A,train,258,"-"", ""-",True
+2z0j_E,train,237,ComB-like,True
+3rv1_B,train,246,"Ribonuclease III domain"", ""-",True
+3i57_B,train,185,"-"", ""-",False
+4ywk_A,test,206,"Nucleic acid-binding proteins"", ""mini-chromosome maintenance (MCM) complex, chain A, domain 1",True
+6o2v_A,test,135,-,True
+5klh_B,train,231,-,False
+3cyi_A,train,110,"Conserved hypothetical protein from pyrococcus furiosus pfu- 392566-001, ParB domain",True
+4f87_A,train,72,-,True
+3txs_C,train,94,ESAT-6-like,True
+1qcs_A,train,211,"-"", ""-",True
+4iaj_B,test,78,-,True
+3a7l_A,valid,128,-,False
+4ljo_A,train,223,-,True
+2w39_A,train,298,-,True
+2dtr_A,train,226,"Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain"", ""Iron dependent repressor, metal binding and dimerisation domain",True
+7wab_A,test,484,-,True
+6mbg_A,train,285,-,True
+1hw1_B,train,239,"Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain"", ""GntR ligand-binding domain-like",True
+7z1k_A,train,172,-,False
+1m5q_Z,train,130,"-"", ""Like-Sm ribonucleoprotein, C-terminal domain",False
+2x96_A,valid,598,-,True
+6fsw_A,test,236,"SBDS protein C-terminal domain, subdomain 1"", ""-"", ""Ribosome maturation protein SBDS, N-terminal domain",True
+3let_B,test,314,Fido-like domain,True
+4ke2_B,train,196,-,False
+1ls1_A,train,295,"Signal recognition particle SRP54, nucleotide-binding domain"", ""P-loop containing nucleotide triphosphate hydrolases",False
+2w0g_A,test,129,"Cdc37, Hsp90 binding domain",True
+3vjz_A,train,166,-,False
+3mwz_A,train,115,-,True
+4kk7_A,train,395,"Type VII secretion system EccB, repeat 3 domain"", ""Type VII secretion system EccB, repeat 1 domain",True
+1fd3_A,train,41,"Antimicrobial Peptide, Beta-defensin 2; Chain A",True
+4zya_A,test,77,"asparaginyl-tRNA synthetase, N-terminal domain",True
+3a0y_B,valid,152,"Histidine kinase-like ATPase, C-terminal domain",False
+6pce_B,train,70,-,True
+4oe9_A,train,121,-,False
+2j6c_A,train,109,"Uncharacterised protein PF08960, DUF1874",False
+5w4a_B,train,216,-,True
+1s9r_A,train,410,"Arginine deiminase"", ""L-arginine/glycine Amidinotransferase; Chain A",False
+1h02_B,train,70,Insulin-like,True
+1bq8_A,train,54,-,True
+1mix_A,train,206,"-"", ""Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB)",False
+3dai_A,train,130,Bromodomain-like,True
+1wqj_B,train,80,-,False
+4v23_A,train,256,"HRSV-S2 matrix protein, N-terminal domain",True
+2gib_B,valid,103,-,True
+4peg_C,train,360,-,False
+4jnu_B,train,40,-,True
+4dol_A,test,217,"-"", ""-",True
+2hy5_A,train,130,DsrEFH-like,False
+5b6c_A,train,174,"-"", ""-",False
+2qt4_A,train,95,-,False
+3sfv_B,train,344,"-"", ""-",True
+7asg_A,train,594,-,True
+2bk9_A,train,153,Globins,True
+3c8w_C,train,255,Acetoacetate decarboxylase-like,True
+7p46_A,test,282,-,True
+1qb7_A,valid,236,-,False
+5kko_D,train,55,-,True
+2imf_A,train,203,Glutaredoxin,False
+2pu9_A,train,110,Ferredoxin thioredoxin reductase catalytic beta subunit,True
+2p12_B,train,176,FomD-like,False
+1j8r_A,train,196,Bacterial adhesin receptor binding domain,True
+4oe9_B,train,121,-,True
+2zca_B,train,169,CRISPR-associated protein Cse2,True
+2fj8_A,train,125,"Cysteine Protease (Bromelain) Inhibitor, subunit H"", ""Cysteine Protease (Bromelain) Inhibitor, subunit H",True
+4lty_A,train,354,"-"", ""-",True
+5b42_A,train,102,"MutL, C-terminal domain, dimerisation subdomain",False
+5w82_B,valid,103,-,False
+2g9e_A,test,70,-,False
+3da8_A,train,215,"Formyl transferase, N-terminal domain",False
+2xpp_A,train,145,"Conserved domain common to transcription factors TFIIS, elongin A, CRSP70",False
+5hkx_A,train,392,"Adaptor protein Cbl, N-terminal domain"", ""Zinc/RING finger domain, C3HC4 (zinc finger)"", ""SH2 domain",True
+2ixm_A,train,303,-,True
+3hlz_B,train,269,"-"", ""Mog1/PsbP, alpha/beta/alpha sandwich",True
+4jmu_A,train,112,"Immunodeficiency lentiviruses, gag gene matrix protein p17",True
+5h7w_B,train,529,"-"", ""5'-Nucleotidase, C-terminal domain",False
+3wol_A,train,698,-,True
+3lyy_A,train,107,-,True
+5naz_A,valid,229,-,True
+3l51_A,train,161,-,False
+4zav_A,train,209,Flavin prenyltransferase-like,True
+4ok9_A,train,149,Hut operon regulatory protein HutP,False
+5kko_C,train,55,-,False
+7s6q_C,train,168,-,False
+3nci_A,train,903,"Helix hairpin bin"", ""-"", ""DNA Polymerase, chain B, domain 1"", ""Ribonuclease H-like superfamily/Ribonuclease H"", ""DnaQ-like 3'-5' exonuclease"", ""Palm domain of DNA polymerase",True
+5mux_B,test,472,"2-methylcitrate dehydratase PrpD"", ""2-methylcitrate dehydratase PrpD",True
+3ni2_A,train,536,"-"", ""N-terminal domain of ligase-like",False
+3e9v_A,train,120,"Anti-proliferative protein, N-terminal domain",True
+1i2t_A,train,61,c-terminal domain of poly(a) binding protein,True
+2wqi_D,train,51,p53-like tetramerisation domain,True
+1doi_A,train,128,-,True
+1bkp_A,train,278,Thymidylate synthase/dCMP hydroxymethylase domain,False
+1gte_D,train,1025,"Alpha-helical ferredoxin"", ""Aldolase class I"", ""-"", ""FAD/NAD(P)-binding domain"", ""FAD/NAD(P)-binding domain",True
+3hxw_A,train,441,Bira Bifunctional Protein; Domain 2,True
+4hkd_B,train,53,p53-like tetramerisation domain,False
+3d3y_A,train,425,"Metalloenzyme, LuxS/M16 peptidase-like"", ""Metalloenzyme, LuxS/M16 peptidase-like",True
+6w6x_A,test,126,-,False
+5h1n_A,train,74,-,False
+1wna_A,train,131,TTHA1528-like,True
+2wzg_A,train,525,"-"", ""Glycosyltransferase family 88, C-terminal domain",False
+4xb6_D,train,281,-,False
+3ktp_A,train,88,c-terminal domain of poly(a) binding protein,False
+1rss_A,train,151,Ribosomal protein S7 domain,True
+1jhs_A,train,188,"Mog1/PsbP, alpha/beta/alpha sandwich",False
+1ez3_B,train,127,-,False
+4pfx_A,train,277,-,False
+1u09_A,train,476,"-"", ""-",False
+3kz5_E,train,52,-,True
+6dgk_A,train,120,"Influenza virus non-structural protein, effector domain",False
+1o4k_A,valid,108,SH2 domain,True
+4ezi_A,valid,377,"-"", ""alpha/beta hydrolase",True
+3fn2_B,train,106,histidine kinase doma clostridium symbiosum atcc 14940,False
+6i0i_A,train,108,-,False
+1u6r_B,test,380,"ATP"", ""Glutamine synthetase/guanido kinase, catalytic domain",False
+2jek_A,train,145,Protein of unknown function DUF1810,True
+4hfv_A,train,190,"-"", ""Substrate of the Dot/Icm secretion system",True
+1upt_B,train,60,GRIP domain,False
+1ikp_A,train,613,"-"", ""Diphtheria Toxin, domain 1"", ""Exotoxin A, middle domain",True
+7dif_A,test,669,-,False
+5lpa_B,valid,270,-,False
+2dt4_A,train,143,"Hypothetical protein, similar to alpha- acetolactate decarboxylase; domain 2",True
+3g5t_A,test,299,Vaccinia Virus protein VP39,True
+3pzw_A,train,839,"Lipoxygenase-1; Domain 5"", ""PLAT/LH2 domain"", ""-"", ""Lipoxygenase-1; Domain 3"", ""Lipoxygenase-1; Domain 2",True
+3zoq_C,train,56,-,True
+2hu9_B,test,130,"BFD-like [2Fe-2S]-binding domain"", ""-",False
+3zrg_B,train,67,-,False
+1yqe_A,train,282,"AF0625-like"", ""AF0625-like",True
+4dok_A,train,208,"-"", ""-",False
+2znr_A,valid,178,"Cytidine Deaminase, domain 2",True
+4jo7_A,train,89,-,True
+4goq_B,valid,110,Protein of unknown function (DUF1491),True
+7z4m_A,valid,519,-,False
+3fkc_A,train,116,Potassium Channel Kv1.1; Chain A,True
+4tkx_L,train,452,-,True
+2ogb_B,train,126,-,False
+2fos_A,valid,260,Alpha carbonic anhydrase,True
+2jhf_B,train,374,"NAD(P)-binding Rossmann-like Domain"", ""Medium-chain alcohol dehydrogenases, catalytic domain",False
+2xm5_A,train,327,-,False
+5mdu_A,train,157,-,True
+3kby_B,train,145,-,False
+1wx1_B,train,335,"-"", ""-",False
+2pcn_A,train,161,Ribonuclease E inhibitor RraA/RraA-like,True
+6atg_C,train,214,-,False
+1zht_A,train,438,"-"", ""-"", ""-"", ""-",False
+3it4_B,train,205,"ArgJ beta chain, C-terminal domain"", ""arginine biosynthesis bifunctional protein suprefamily",True
+2dka_A,train,544,"Alpha-D-phosphohexomutase, C-terminal domain"", ""Alpha-D-Glucose-1,6-Bisphosphate, subunit A, domain 3",False
+2fyg_A,train,128,-,True
+5kvk_A,train,170,CinA-like,True
+2w56_A,train,147,Protein of unknown function DUF2787,True
+2gg6_A,valid,455,"Enolpyruvate transferase domain"", ""Enolpyruvate transferase domain",True
+3c1q_B,train,123,"Type II secretion system (T2SS), domain F",False
+2qtd_A,train,105,Dinitrogenase iron-molybdenum cofactor biosynthesis domain,True
+3bl9_B,test,301,"Scavenger mRNA decapping enzyme, N-terminal domain"", ""HIT-like"", ""mRNA decapping enzyme DcpS N-terminal domain",False
+2cxi_A,train,348,"-"", ""-"", ""Phenylalanyl-trna Synthetase, Chain B, domain 3",False
+4fqn_B,train,98,-,False
+1io1_A,train,398,"f41 fragment of flagellin, N-terminal domain"", ""f41 fragment of flagellin, C-terminal domain"", ""f41 fragment of flagellin, middle domain",True
+1ail_A,valid,73,"S15/NS1, RNA-binding",True
+2bo1_A,train,101,-,True
+6okd_C,train,51,-,True
+2o4t_A,train,100,c-terminal domain of poly(a) binding protein,True
+1r9f_A,train,136,RNA silencing suppressor P19,True
+1k7j_A,train,206,DHBP synthase,True
+2w8x_A,train,72,Pancreatic trypsin inhibitor Kunitz domain,False
+3wwh_A,train,330,"D-amino Acid Aminotransferase, subunit A, domain 2"", ""-",True
+5j3t_B,train,242,-,True
+2igi_A,train,180,Ribonuclease H-like superfamily/Ribonuclease H,False
+2y7b_A,train,134,Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB),True
+2x5r_A,train,127,-,True
+3hmr_A,train,99,Hepatocyte Growth Factor,False
+3n8u_A,train,361,-,False
+4m0q_A,train,230,-,True
+2ftx_A,train,90,Chromosome segregation protein Spc25,True
+6xb3_H,train,241,-,True
+2fb6_A,train,117,DsrEFH-like,True
+3eye_A,train,168,"Phosphotransferase system, sorbose subfamily IIB component",True
+4j32_B,train,101,-,False
+2dlb_B,train,80,Protein of unknown function YopT,False
+5txr_B,train,491,-,True
+1v4p_C,train,157,"-"", ""Threonyl-trna Synthetase; Chain A, domain 2",False
+1mv8_C,train,436,"-"", ""NAD(P)-binding Rossmann-like Domain"", ""NAD(P)-binding Rossmann-like Domain",False
+2rkv_A,valid,451,"Chloramphenicol acetyltransferase-like domain"", ""Chloramphenicol acetyltransferase-like domain",True
+2eq8_C,train,40,-,False
+4jgn_A,train,127,RNA silencing suppressor P19,False
+3mol_B,train,184,Haem-binding HasA,False
+2e7z_A,train,727,"ADC-like domains"", ""-"", ""-"", ""Dimethylsulfoxide Reductase, domain 2",True
+4v1g_B,train,86,F1F0 ATP synthase subunit C,True
+3bwu_D,train,125,-,True
+1u07_A,train,90,TonB,False
+4o6q_A,train,184,Haem-binding HasA,True
+3kvd_D,train,242,"-"", ""-",True
+3glx_A,train,226,"Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain"", ""Iron dependent repressor, metal binding and dimerisation domain"", ""-",False
+1wpb_A,train,172,"Helix hairpin bin"", ""yfbu gene product, domain 2",True
+1g38_A,valid,393,"Vaccinia Virus protein VP39"", ""Adenine-n6-DNA-methyltransferase Taqi, Chain A, domain 2",True
+3bl9_A,train,301,"Scavenger mRNA decapping enzyme, N-terminal domain"", ""HIT-like",True
+6jfk_A,train,438,-,False
+3wvz_A,train,201,-,True
+2w6k_A,train,145,CobE/GbiG C-terminal domain,True
+1ctf_A,train,74,-,True
+7n51_A,train,266,-,False
+2xmx_A,train,271,"-"", ""Colicin M, catalytic domain",False
+2wny_B,valid,141,-,False
+1njh_A,train,119,Hypothetical protein YojF,True
+7fd1_A,train,106,-,True
+7zh9_A,train,1024,-,False
+1jq5_A,train,370,"Dehydroquinate synthase-like - alpha domain"", ""-",True
+4wt3_A,train,213,-,True
+1dwk_A,train,156,"lambda repressor-like DNA-binding domains"", ""Cyanate lyase, C-terminal domain",True
+1k8k_E,train,178,Actin-related protein 2/3 complex subunit 3,True
+1f20_A,train,435,"NADPH-cytochrome p450 Reductase; Chain A, domain 3"", ""Translation factors"", ""Nucleotide-binding domain of ferredoxin-NADP reductase (FNR) module",True
+2o6x_A,test,310,Cysteine proteinases,False
+6l8s_A,train,650,-,True
+2x5g_A,test,96,-,True
+1m15_A,train,357,"ATP"", ""Glutamine synthetase/guanido kinase, catalytic domain",True
+5n76_F,train,66,-,False
+5yrt_C,valid,137,"Propanediol/glycerol dehydratase, small subunit",False
+3sol_A,train,94,Chaperone lipoprotein PulS/OutS,False
+1msc_A,train,129,MS2 Viral Coat Protein,True
+2cfm_A,train,561,"DNA ligase, ATP-dependent, N-terminal domain"", ""Nucleic acid-binding proteins"", ""DNA ligase/mRNA capping enzyme",False
+4wwr_F,valid,47,-,False
+4iu3_B,train,243,"Dockerin domain"", ""-",True
+7rm7_A,test,228,-,True
+2i9x_B,train,87,Stage V sporulation protein G,False
+3hol_A,train,509,"-"", ""-"", ""-"", ""-",True
+2bti_A,train,63,-,True
+4e5r_A,train,56,-,False
+5l87_A,train,69,Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain,True
+6q9c_B,train,418,-,True
+3im1_A,train,328,"5' to 3' exonuclease, C-terminal subdomain"", ""Sec63 N-terminal domain-like domain"", ""C2 domain",False
+3jub_A,test,153,Gamma-glutamyl cyclotransferase-like,True
+3po8_A,train,100,-,True
+2inc_A,train,491,"Ribonucleotide Reductase, subunit A",False
+2vcc_A,train,891,"N-acetyl-b-d-glucoasminidase"", ""Galactose-binding domain-like"", ""Glycosidases"", ""Chitobiase/beta-hexosaminidase domain 2-like",True
+3vgp_A,train,164,-,True
+2vrs_C,train,211,"-"", ""reovirus attachment protein sigma1; domain 1"", ""-",True
+3djl_A,valid,541,"-"", ""-",True
+6bm5_A,train,333,"Cobalamin-dependent Methionine Synthase, domain 2"", ""Vitamin B12-dependent methionine synthase, activation domain",False
+7m8h_A,valid,294,-,False
+2gec_A,test,139,-,False
+2prv_A,train,153,SMI1/KNR4-like,False
+2wya_A,train,460,-,False
+1b0n_A,train,111,lambda repressor-like DNA-binding domains,False
+4s39_A,train,406,"Dihydropteroate synthase-like"", ""Sulfite Reductase Hemoprotein, domain 1",True
+2wn3_C,train,254,"-"", ""Galactose-binding domain-like",False
+1aol_A,train,228,"ENV polyprotein, receptor-binding domain",True
+4hwx_A,train,114,Subtilisin inhibitor-like,True
+2hnu_A,train,81,Neurohypophysial hormone domain,True
+2qjz_A,train,123,Calponin-like domain,False
+6h49_A,train,157,-,True
+7p46_B,train,282,-,False
+1n8u_A,train,112,Insect odorant-binding protein A10/Ejaculatory bulb-specific protein 3,True
+4q0y_B,test,134,-,False
+2pyq_C,valid,114,Jann4075-like,False
+1oao_C,test,729,"Carbon monoxide dehydrogenase alpha subunit. Chain M, domain 1"", ""Bifunctional carbon monoxide dehydrogenase/acetyl-coa synthase(codh/acs), Chain M, domain 3"", ""-"", ""Carbon monoxide dehydrogenase alpha subunit. Chain D, domain 4"", ""Bifunctional carbon monoxide dehydrogenase/acetyl-coa synthase(codh/acs), Chain M, domain 5",True
+7uw7_A,train,80,-,False
+7ubj_A,valid,147,-,False
+5w5c_A,train,40,-,True
+4r7q_A,train,222,-,False
+5vz0_B,train,1144,-,False
+1nl1_A,train,147,Plasminogen Kringle 4,True
+4ct7_A,train,243,-,True
+5w82_E,train,103,-,True
+1qwz_A,valid,235,Sortase,True
+2wnp_F,train,217,"Gamma Fibrinogen, chain A, domain 1"", ""Gamma-fibrinogen Carboxyl Terminal Fragment, domain 2",True
+3lk7_A,train,451,"NAD(P)-binding Rossmann-like Domain"", ""Mur-like, catalytic domain"", ""Mur ligase, C-terminal domain",True
+5oh5_A,train,283,-,True
+3l9a_X,train,88,-,True
+4jgi_A,train,211,"Methionine synthase domain"", ""Cobalamin-binding domain",True
+3b9q_A,train,302,"Signal recognition particle SRP54, nucleotide-binding domain"", ""P-loop containing nucleotide triphosphate hydrolases",True
+5gof_A,train,422,-,True
+3fp5_A,train,106,-,True
+6okd_D,train,51,-,False
+5cyz_C,train,105,-,True
+3q1n_A,train,294,-,True
+5bmt_B,train,239,-,False
+3mcb_A,train,54,Nascent polypeptide-associated complex domain,False
+7z27_A,train,189,-,False
+3oxp_A,train,150,Mannitol-specific EII; Chain A,False
+3lyw_A,train,90,-,False
+5e3e_E,train,104,-,False
+5wqq_A,train,83,High potential iron-sulphur protein,False
+6b6m_A,train,156,-,False
+6l3r_E,train,669,-,True
+1zpe_A,train,314,Ureohydrolase domain,False
+1ewf_A,train,456,"Bactericidal permeability-increasing protein; domain 1"", ""Bactericidal permeability-increasing protein; domain 2",True
+3tbn_A,train,87,-,True
+3vu0_B,train,162,-,False
+5vz0_A,train,1144,-,True
+1yoz_B,valid,116,AF0941-like,True
+4cfi_A,train,258,"f41 fragment of flagellin, N-terminal domain",True
+8b2r_B,valid,86,-,False
+3h1d_A,train,405,"Hect, E3 ligase catalytic domain"", ""Hect, E3 ligase catalytic domain"", ""Hect, E3 ligase catalytic domains",True
+4lty_D,train,354,"-"", ""-",False
+1lj5_A,train,379,"Alpha-1-antitrypsin, domain 1"", ""Antithrombin, subunit I, domain 2",True
+6f45_D,train,249,-,True
+1m9z_A,train,111,CD59,True
+2qev_A,test,145,Pheromone/general odorant binding protein domain,False
+1ig3_A,valid,263,"Thiamin pyrophosphokinase, thiamin-binding domain"", ""Thiamin pyrophosphokinase, catalytic domain",False
+1j09_A,train,468,"Glutamate-tRNA synthetase, class I, anticodon-binding domain 1"", ""-"", ""Glutamyl-trna Synthetase; Domain 2"", ""HUPs"", ""Glutamyl-tRNA Synthetase; Domain 3",False
+3jtz_A,test,88,"Integrase, DNA-binding domain",True
+2onf_B,train,140,-,False
+3vej_B,train,41,Get5 dimerization domain,True
+1krn_A,train,88,Plasminogen Kringle 4,True
+2hl7_A,train,84,Cytochrome C biogenesis protein,False
+3lvu_D,train,258,Dipeptide-binding Protein; Domain 3,False
+3g28_A,train,77,-,True
+2bbr_A,valid,195,"Death Domain, Fas"", ""Death Domain, Fas",True
+1z1l_A,train,345,"3'5'-cyclic nucleotide phosphodiesterase, catalytic domain",True
+4za9_A,train,508,-,True
+2rji_A,train,84,Erythrocyte binding antigen 175 region VI,False
+5udz_A,test,148,"Nucleic acid-binding proteins"", ""Zinc finger, CCHC-type",False
+1nf8_A,train,207,Isochorismatase-like,False
+4eo1_A,train,70,"Phage FD Coat Protein,Membrane penetration domain",True
+6zpe_A,train,125,-,False
+1qw2_A,train,102,Hypothetical protein YunC,False
+4qb0_A,train,103,-,True
+4ebg_B,train,101,-,False
+5jx1_A,test,75,-,True
+1xta_B,train,221,"Crisp domain"", ""CAP",False
+5ydn_A,train,109,-,True
+5wx9_A,train,131,-,False
+6cb6_A,train,122,-,False
+2nml_A,train,104,Enhancer of rudimentary,True
+2y39_A,train,118,-,True
+3ka5_B,train,65,-,False
+2qia_A,train,262,"Udp N-acetylglucosamine O-acyltransferase, C-terminal domain"", ""Hexapeptide repeat proteins",False
+1dd3_A,train,128,"Single helix bin"", ""-",False
+1usm_A,train,80,Transcriptional coactivator/pterin dehydratase,False
+3ho6_A,train,267,-,False
+3h5q_A,train,436,"Transferase, Pyrimidine Nucleoside Phosphorylase; Chain C"", ""Nucleoside phosphorylase/phosphoribosyltransferase catalytic domain"", ""Pyrimidine nucleoside phosphorylase-like, C-terminal domain",True
+2nnu_A,test,205,"E2 (early) protein, N terminal domain, subdomain 1"", ""Papillomavirus E2 early protein domain",True
+3emf_A,train,116,Trimeric adhesin,False
+2p58_A,train,65,"Immunoglobulin FC, subunit C",True
+2hwn_D,train,45,"cAMP-dependent protein kinase regulatory subunit, dimerization-anchoring domain",False
+4a3p_A,train,217,"Phosphatidylinositol 3-kinase Catalytic Subunit; Chain A, domain 1"", ""DUSP-like",True
+1vra_B,test,215,"ArgJ beta chain, C-terminal domain"", ""arginine biosynthesis bifunctional protein suprefamily",False
+4lq4_A,train,211,"-"", ""-",True
+4ew5_A,train,102,inner membrane protein cigr,True
+6hj6_A,train,171,-,True
+3pf6_C,test,62,-,False
+2j7z_A,train,68,-,False
+3p3v_B,train,163,"Phosphotransferase system, sorbose subfamily IIB component",False
+2xqu_A,train,82,F1F0 ATP synthase subunit C,False
+2vg1_B,train,228,Decaprenyl diphosphate synthase-like,False
+1ijt_A,train,128,-,True
+3f0o_B,train,212,-,False
+1woj_A,valid,214,"2',3'-cyclic nucleotide 3'-phosphodiesterase superfamily",False
+3o3x_A,train,198,-,True
+1vcc_A,test,77,DNA topoisomerase I domain,True
+8htw_B,train,181,-,False
+3ezu_A,train,342,"-"", ""-",True
+2pfx_A,train,191,"AhpD-like"", ""AhpD-like",True
+3hdj_B,train,313,"ornithine cyclodeaminase, domain 1"", ""NAD(P)-binding Rossmann-like Domain",False
+3jz9_A,train,197,-,True
+2w6l_A,train,142,CobE/GbiG C-terminal domain,False
+3twz_A,test,399,"Phosphopentomutase"", ""Alkaline Phosphatase, subunit A",True
+3l4p_A,train,907,"[2Fe-2S]-binding domain"", ""-"", ""Aldehyde oxidase/xanthine dehydrogenase, molybdopterin binding domain"", ""Aldehyde oxidase/xanthine dehydrogenase, molybdopterin binding domain"", ""Aldehyde oxidase/xanthine dehydrogenase, molybdopterin binding domain"", ""Aldehyde oxidase/xanthine dehydrogenase, molybdopterin binding domain"", ""Aldehyde oxidase/xanthine dehydrogenase, a/b hammerhead",False
+2aib_A,train,98,Elicitin domain,False
+2oeb_A,train,155,AF1862-like domain,True
+2g64_A,train,140,6-pyruvoyl tetrahydropterin synthase/QueD,False
+4o87_B,train,320,-,False
+6y2x_A,test,235,-,True
+2w0i_A,train,135,Severin,False
+5e5q_A,train,63,-,False
+3ll7_A,valid,410,"Methyltransferase PG1098, N-terminal domain"", ""Vaccinia Virus protein VP39",True
+2ra8_A,train,362,"WGR domain"", ""Ribonuclease Inhibitor",True
+3cjs_B,test,72,"Ribosomal protein L11/L12, N-terminal domain",True
+3m4r_A,train,222,Class II aldolase/adducin N-terminal domain,True
+4lpq_A,train,207,"PGBD-like superfamily/PGBD"", ""L,D-transpeptidase catalytic domain-like",True
+1g6g_A,train,127,-,False
+6q9c_D,train,418,-,False
+4fc2_B,train,521,-,False
+7u1y_A,train,439,-,False
+2ou3_A,train,161,TerB-like,False
+7a66_B,train,86,-,True
+3lwx_A,train,199,-,True
+2b0a_A,train,186,Putative cyclase,False
+2qnl_A,train,162,dinb family like domain,False
+3bpt_A,train,363,"2-enoyl-CoA Hydratase; Chain A, domain 1",True
+4xb6_E,train,150,-,True
+3mhs_B,test,96,-,True
+5zmo_A,train,172,-,True
+6l8s_C,train,650,-,False
+4yxp_A,train,275,-,True
+5ori_A,train,583,"-"", ""-"", ""-"", ""-"", ""-"", ""-",False
+1nij_A,valid,318,"CobW-like, C-terminal domain"", ""P-loop containing nucleotide triphosphate hydrolases",True
+3p3o_A,train,416,Cytochrome P450,False
+1dk8_A,train,147,"Regulator of G-protein Signalling 4, domain 2"", ""-",True
+6avj_B,train,92,-,False
+3f43_A,train,125,STAS domain,False
+4d71_A,test,596,"Polysaccharide lyase family 8-like, C-terminal"", ""Glycosidases"", ""family 98 glycoside hydrolase",True
+1tdz_A,valid,272,"-"", ""MutM-like, N-terminal",False
+6q9c_C,train,155,-,False
+3wkx_A,train,669,-,True
+1whz_A,train,70,Hypothetical protein.,True
+6pxz_C,train,104,-,False
+5eg7_A,train,161,-,True
+2wlt_A,train,332,"-"", ""L-asparaginase, N-terminal domain",True
+2dfx_I,train,106,-,False
+2i5v_O,train,251,"C1 set domains (antibody constant domain-like)"", ""-",True
+1sdi_A,train,213,HflD-like,True
+3apr_E,train,325,"Acid Proteases"", ""Acid Proteases",False
+1n8o_E,train,142,Ecotin,False
+6l4l_A,test,281,-,True
+2ed6_J,train,170,WSSV envelope protein-like,False
+4o66_D,train,76,-,True
+2rkq_A,train,169,Peptidoglycan recognition protein-like,True
+3igz_B,train,561,"Alkaline Phosphatase, subunit A"", ""BPG-independent phosphoglycerate mutase, domain B",True
+6zdt_B,train,168,-,False
+5noh_A,train,103,-,True
+1coj_A,train,212,-,True
+4ngd_A,train,302,paz domain,True
+3aa6_B,train,244,"-"", ""F-actin capping protein, beta subunit",True
+2gg2_A,train,263,Creatinase/methionine aminopeptidase superfamily,True
+4phr_A,train,277,-,True
+2z0a_B,test,79,"S15/NS1, RNA-binding",False
+3ga3_A,train,133,"RIG-I-like receptor, C-terminal regulatory domain",True
+4f55_A,valid,128,"Cell wall hydrolase SleB, domain 1"", ""-",True
+4g75_A,test,297,"-"", ""Colicin M, catalytic domain",True
+2bfw_A,train,200,Glycogen Phosphorylase B;,True
+2fef_B,train,294,"PA2201 C-terminal domain-like"", ""PA2201 N-terminal domain-like",True
+5mux_C,train,472,"2-methylcitrate dehydratase PrpD"", ""2-methylcitrate dehydratase PrpD",False
+5t76_A,train,215,-,True
+2vi1_A,train,207,Thaumatin,True
+6e7e_A,valid,169,-,True
+2in8_A,train,139,Hedgehog/Intein (Hint) domain,True
+3n4i_B,train,165,"-"", ""-",False
+3t92_A,train,121,TAZ domain,True
+1x0a_A,train,344,"-"", ""Hypothetical oxidoreductase yiak; domain 2",False
+6p5x_B,train,457,-,True
+6as3_A,train,106,-,True
+3ol4_A,train,107,"-"", ""-",False
+6dfp_A,train,372,-,False
+1feh_A,train,574,"-"", ""-",True
+2z7f_I,train,50,Elafin-like,True
+5l0r_A,train,357,-,False
+1hq0_A,train,295,"Cytotoxic necrotizing factor, Rho-activating domain",True
+3ueb_E,train,110,MTH677-like,True
+1sei_A,train,130,"-"", ""-",True
+3l4h_A,train,109,-,True
+3vkw_A,test,446,"-"", ""P-loop containing nucleotide triphosphate hydrolases"", ""P-loop containing nucleotide triphosphate hydrolases",True
+1uzp_A,train,162,"Laminin"", ""Laminin"", ""TGF-beta binding (TB) domain",False
+3se9_G,train,353,"Human immunodeficiency virus 1, Gp160, envelope glycoprotein",False
+6d7y_A,valid,96,-,True
+3nr1_A,test,178,Hypothetical protein af1432,False
+1a62_A,train,130,"-"", ""Nucleic acid-binding proteins",True
+4a56_A,train,93,Chaperone lipoprotein PulS/OutS,True
+5pal_A,train,109,EF-hand,True
+2q7x_A,train,326,CofD-like domains,False
+2p6h_B,train,134,YjbQ-like,False
+1uz3_A,train,102,ENT domain,True
+3dd6_A,train,255,"GHMP Kinase, N-terminal domain",True
+4goe_A,train,52,"Immunoglobulin FC, subunit C",False
+1h2e_A,train,207,Phosphoglycerate mutase-like,True
+4h9n_C,train,212,-,True
+4h9m_A,train,840,"Urease, beta subunit"", ""Urease, subunit C, domain 1"", ""Metal-dependent hydrolases"", ""Urease, gamma-like subunit",True
+1nns_A,valid,326,"-"", ""L-asparaginase, N-terminal domain",False
+5b1q_B,train,459,-,True
+4o6g_A,valid,174,-,True
+6oz1_A,train,643,-,True
+7lao_A,train,271,-,True
+1iom_A,train,377,"Cytochrome P450-Terp, domain 2"", ""Citrate Synthase, domain 1",True
+2p2v_A,train,288,"Alpha-2,3-sialyltransferase",True
+2qhq_A,train,125,vpa0580 domain like,False
+6jwj_A,train,473,-,False
+1msk_A,train,331,"Cobalamin-dependent Methionine Synthase, domain 2"", ""Vitamin B12-dependent methionine synthase, activation domain",True
+4zi3_C,train,135,"ADP-ribosylation factor-like 2-binding protein, domain",False
+2pq8_A,train,278,"Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain"", ""N-acetyl transferase-like"", ""-",True
+2op6_A,train,152,"Substrate Binding Domain Of DNAk; Chain A, domain 1",False
+2b9d_B,valid,52,-,False
+2rbk_A,train,261,"-"", ""HAD superfamily/HAD-like",True
+1ys1_X,train,320,alpha/beta hydrolase,True
+2py5_B,train,575,"Helix hairpin bin"", ""Ribonuclease H-like superfamily/Ribonuclease H"", ""TPR 1 domain of DNA polymerase"", ""Palm domain of DNA polymerase"", ""DNA polymerase; domain 5"", ""DNA polymerase; domain 6",False
+1x6j_A,train,91,Flavinator of succinate dehydrogenase,True
+4u5h_G,train,90,-,True
+1qxy_A,train,252,Creatinase/methionine aminopeptidase superfamily,False
+3bn0_A,test,112,-,True
+1ntv_A,train,152,Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB),False
+4ayg_B,train,1039,"Cholin Binding"", ""Golgi alpha-mannosidase II"", ""Glucansucrase",True
+2ppp_A,train,107,-,False
+3h0n_A,train,188,Jann2411-like domain,True
+5kdv_A,train,891,-,True
+6jv8_A,valid,76,-,True
+5n6y_C,train,113,-,True
+3lur_B,valid,158,"Regulatory factor, effector binding domain",False
+1tov_A,valid,98,CAP Gly-rich-like domain,True
+1dlj_A,train,402,"N-(1-d-carboxylethyl)-l-norvaline Dehydrogenase; domain 2"", ""NAD(P)-binding Rossmann-like Domain"", ""NAD(P)-binding Rossmann-like Domain",True
+5fub_A,valid,337,"Hnrnp arginine n-methyltransferase1"", ""Vaccinia Virus protein VP39",False
+5hee_B,train,262,LigB-like,True
+5muy_B,test,328,-,True
+4ghn_A,train,393,"-"", ""-"", ""2-enoyl-CoA Hydratase; Chain A, domain 1",True
+1fn9_A,train,365,"Outer-capsid protein sigma 3, large lobe"", ""Outer-capsid protein sigma 3, small lobe",True
+4reo_A,train,229,"-"", ""-",False
+3ckf_A,train,228,"C1 set domains (antibody constant domain-like)"", ""-",False
+4gjp_A,train,499,-,False
+6anz_A,train,146,-,True
+2xz3_A,train,463,-,True
+1ikt_A,train,120,SCP2 sterol-binding domain,True
+6ndw_B,train,178,-,True
+7uhe_C,valid,76,-,False
+3bpj_B,train,80,Eukaryotic translation initiation factor 3 like domains,True
+7r79_C,train,78,-,False
+2v6a_O,train,140,"Ribulose bisphosphate carboxylase, small subunit",False
+6odd_B,train,74,-,True
+2gh0_D,train,101,Cystine-knot cytokines,False
+3g06_A,train,622,Ribonuclease Inhibitor,True
+1ypy_A,train,184,-,True
+1vkm_D,train,297,Indigoidine synthase domain,False
+3t4r_A,train,81,-,True
+6xds_A,train,492,-,True
+2wsi_A,train,306,HUPs,True
+2p54_A,train,267,Retinoid X Receptor,False
+6e6o_A,train,40,-,False
+5uki_A,train,351,-,True
+6l3r_A,train,669,-,False
+6bn0_A,train,79,-,True
+4xb5_A,train,326,"Orange carotenoid-binding protein, N-terminal domain"", ""-",True
+3in9_A,valid,378,"-"", ""-",False
+3c2q_B,test,345,"conserved putative lor/sdh protein from methanococcus maripaludis s2 domain"", ""putative lor/sdh protein like domains",True
+2yvq_A,train,143,Methylglyoxal synthase-like domain,True
+5lpa_A,train,270,-,True
+5x1e_B,train,148,-,True
+5b1q_A,train,459,-,False
+6j56_B,valid,129,-,False
+1esw_A,train,500,Glycosidases,True
+6xb3_A,train,241,-,False
+1dd3_B,valid,128,"Single helix bin"", ""-",True
+3pjy_B,train,136,Protein of unknown function DUF192,False
+5jou_A,train,955,"Golgi alpha-mannosidase II"", ""Golgi alpha-mannosidase II"", ""glycosyl hydrolase (family 31)"", ""-"", ""Glycosidases",False
+6gu2_C,valid,84,"Cyclin-dependent kinase, regulatory subunit",False
+3nrl_A,train,81,-,False
+3bzm_A,train,431,Anthranilate synthase,False
+2psp_B,train,106,"Spasmolytic Protein, domain 1"", ""Spasmolytic Protein, domain 1",False
+5iz3_B,train,316,"Fructose-1,6-Bisphosphatase, subunit A, domain 1"", ""-",False
+5kwb_A,train,371,-,True
+3p4h_A,test,118,-,True
+5b5i_A,train,74,-,False
+2fp1_A,valid,166,Chorismate mutase,False
+2ftx_B,valid,64,-,False
+3owt_B,train,157,"-"", ""-",True
+4xgl_A,train,379,-,True
+5ngd_D,train,417,-,False
+3g0m_A,train,141,-,True
+2vfq_A,valid,559,-,False
+6hem_A,valid,303,-,True
+1xwl_A,train,580,"5' to 3' exonuclease, C-terminal subdomain"", ""Taq DNA Polymerase; Chain T, domain 4"", ""-"", ""Ribonuclease H-like superfamily/Ribonuclease H",True
+3l32_B,valid,45,-,False
+4cdp_A,train,354,"HemS/ChuS/ChuX like domains"", ""HemS/ChuS/ChuX like domains",True
+6bwr_A,test,149,-,False
+4wkz_A,train,243,"Dockerin domain"", ""-",False
+3bq9_B,train,460,"MoCo carrier protein-like"", ""-",False
+3kby_A,test,145,-,True
+6rrv_A,train,127,-,False
+7k7p_B,train,118,-,True
+2hba_A,train,52,"Ribosomal protein L9, N-terminal domain",False
+1yd3_A,train,96,GIY-YIG endonuclease,False
+2nug_B,train,221,"Ribonuclease III domain"", ""-",True
+2pqx_A,train,245,Ribonuclease T2-like,True
+6z2t_A,train,58,-,False
+3wok_A,train,698,-,False
+6lrd_A,train,705,-,True
+2end_A,test,138,T4 endonuclease V,True
+3kwr_A,train,97,-,False
+3ehg_A,train,128,"Histidine kinase-like ATPase, C-terminal domain",True
+1xkn_A,valid,355,L-arginine/glycine Amidinotransferase; Chain A,True
+2pag_A,test,135,SMI1/KNR4-like,True
+3p3g_A,train,300,"lpxc deacetylase, domain 1"", ""lpxc deacetylase, domain 2",True
+1s9u_A,train,207,TorD-like,True
+2v9m_A,train,274,Class II aldolase/adducin N-terminal domain,False
+1ef1_D,train,90,-,True
+1v0w_A,train,506,"Endonuclease Chain A"", ""Endonuclease Chain A",True
+1vcl_A,train,432,"-"", ""-"", ""Hemolytic lectin CEL-III, C-terminal domain",False
+1vbi_A,train,344,"-"", ""Hypothetical oxidoreductase yiak; domain 2",True
+2vy8_A,train,157,-,True
+6c62_D,train,68,-,False
+3ajf_B,train,94,Tenuivirus movement protein,False
+1fs1_A,train,53,-,True
+7lp1_A,train,39,-,True
+3ic3_C,train,101,putative pyruvate dehydrogenase,False
+5jfc_S,train,284,-,False
+2lis_A,valid,136,Fertilization protein,False
+3gqv_A,valid,371,"NAD(P)-binding Rossmann-like Domain"", ""Medium-chain alcohol dehydrogenases, catalytic domain",True
+3ouf_A,train,97,-,False
+5dje_B,train,140,-,True
+3ofg_B,test,95,-,True
+2ad6_D,train,69,"Methanol dehydrogenase, beta subunit",True
+2dwk_A,train,180,-,True
+5dpo_A,train,119,-,True
+5t2p_B,train,155,"Viral capsid, core domain supefamily, Hepatitis B virus",True
+2f60_K,train,64,E3-binding domain,True
+2osa_A,train,202,Rho GTPase activation protein,False
+4e40_A,train,252,-,False
+3ot9_B,train,399,"Phosphopentomutase"", ""Alkaline Phosphatase, subunit A",False
+1j2l_A,test,70,Disintegrin domain,True
+4g6d_B,train,198,-,True
+4byz_A,train,194,-,True
+4qbu_A,train,444,"Malonyl-CoA ACP transacylase, ACP-binding"", ""-"", ""Malonyl-Coenzyme A Acyl Carrier Protein, domain 2",True
+3dgp_B,train,71,TFB5-like,True
+5n0s_A,train,410,-,True
+1vct_A,train,205,"Phosphate transport system protein phou homolog 2; domain 2"", ""Regulator of K+ conductance, C-terminal domain",False
+1yu0_A,train,381,"-"", ""Tail fiber receptor-binding protein"", ""paralog of FGE (formylglycine-generating enzyme)",True
+3bhg_A,valid,459,"Fumarase/aspartase (C-terminal domain)"", ""Fumarase/aspartase (N-terminal domain)"", ""Fumarase/aspartase (Central domain)",True
+2b7r_A,train,571,"Flavocytochrome C3; Chain A"", ""FAD/NAD(P)-binding domain"", ""Succinate dehydrogenase/fumarate reductase flavoprotein, catalytic domain",True
+7onn_A,train,410,-,True
+3ikw_A,test,374,"-"", ""-",True
+4rhf_A,train,209,Flavin prenyltransferase-like,False
+3c0f_B,train,91,-,True
+5el3_B,train,113,-,False
+5iff_A,test,220,-,True
+5nir_A,train,74,-,False
+4adn_B,valid,222,-,True
+2jh3_A,test,474,"-"", ""-"", ""-"", ""-",False
+1lfp_A,train,249,"-"", ""-"", ""-",True
+5m45_B,train,717,-,False
+2rjw_A,train,67,Villin headpiece domain,False
+1w2w_A,train,211,"translation initiation factor eif-2b, domain 1",True
+5ezu_A,train,89,-,True
+6a0p_A,valid,413,"-"", ""Tick-borne Encephalitis virus Glycoprotein, domain 1"", ""Viral Envelope Glycoprotein, domain 2"", ""Viral Envelope Glycoprotein, domain 3",False
+3fyb_A,train,104,SMc04008-like,True
+4q0y_A,valid,134,-,True
+1m5q_I,train,130,"-"", ""Like-Sm ribonucleoprotein, C-terminal domain",True
+2glz_B,train,153,-,False
+1qnx_A,train,209,CAP,True
+3on9_B,train,163,-,False
+2qwo_B,train,92,DnaJ domain,False
+2oez_B,train,247,"YacF-like"", ""YacF-like domains",True
+3nrl_B,valid,81,-,True
+1yoe_A,train,322,Ribonucleoside hydrolase-like,True
+4f98_A,train,69,Protein of unknown function DUF2790,True
+3tvj_I,valid,38,-,True
+2z0x_A,test,158,YbaK/aminoacyl-tRNA synthetase-associated domain,True
+4qx8_B,test,68,-,True
+2gqt_A,train,268,"Uridine Diphospho-n-acetylenolpyruvylglucosamine Reductase, domain 2"", ""-"", ""UDP-N-acetylenolpyruvoylglucosamine reductase, C-terminal domain",False
+1bxy_A,train,60,"Ribosomal protein L30, ferredoxin-like fold domain",True
+4ebg_A,train,101,-,True
+5nod_A,train,85,-,False
+2pmk_A,test,243,P-loop containing nucleotide triphosphate hydrolases,True
+1jif_A,valid,122,"2,3-Dihydroxybiphenyl 1,2-Dioxygenase, domain 1",False
+3nyy_A,train,252,-,True
+3ghd_A,train,70,-,False
+2ims_A,train,171,Blc2-like,False
+1v30_A,train,124,Gamma-glutamyl cyclotransferase-like,False
+1dzf_A,train,215,"RNA polymerase, Rpb5, N-terminal domain"", ""RPB5-like RNA polymerase subunit",True
+1gqv_A,valid,135,Ribonuclease A-like domain,True
+6ro6_A,train,58,-,True
+2bjq_A,test,345,-,True
+6kty_A,train,196,-,True
+3f0p_A,train,212,-,False
+2bjf_A,train,329,Penicillin V Acylase; Chain A,False
+4pz1_A,train,98,-,True
+3mcb_B,train,58,Nascent polypeptide-associated complex domain,True
+1vkm_C,train,297,Indigoidine synthase domain,True
+6dlm_A,test,75,-,True
+4iaj_A,train,78,-,False
+2zzd_E,train,157,"Nitrile hydratase, beta subunit",True
+3lpc_A,train,340,Peptidase S8/S53 domain,True
+3oi8_B,train,156,"CBS-domain"", ""-",False
+1whi_A,valid,122,Ribosomal protein L14,True
+5z51_A,train,162,-,True
+2p84_A,train,145,"YopX-like domains"", ""YopX-like domain",True
+2g7o_A,valid,70,-,True
+1uxy_A,train,340,"Uridine Diphospho-n-acetylenolpyruvylglucosamine Reductase, domain 2"", ""-"", ""UDP-N-acetylenolpyruvoylglucosamine reductase, C-terminal domain",True
+3bk5_A,train,237,Lipoprotein localisation LolA/LolB/LppX,True
+6b1z_A,train,511,"Glutamyl-trna Synthetase; Domain 2"", ""HUPs"", ""Glutamyl-tRNA Synthetase; Domain 3",True
+1zdy_A,train,307,-,True
+3zcb_B,train,62,Antitoxin VbhA-like,False
+5o5s_A,train,131,-,False
+4cv7_A,test,113,Rhodococcus equi virulence-associated protein,False
+1kpt_A,valid,105,"Killer Toxin P4, subunit A",False
+1z21_A,valid,112,"Type III secretion system virulence factor YopR, core domain",True
+5jca_S,train,284,-,True
+4u5h_B,train,90,-,False
+1w6s_D,train,74,"Methanol dehydrogenase, beta subunit",False
+6jpt_A,train,122,-,True
+3mmy_D,train,56,-,True
+3txs_B,train,94,ESAT-6-like,False
+1vzy_A,train,291,"Hsp33 domain"", ""HSP33 redox switch-like",False
+1xo7_B,train,166,Cyclophilin-like,False
+8dkp_B,test,396,-,False
+4jnu_A,train,40,-,False
+3q1p_A,train,205,"Nucleoside Triphosphate Pyrophosphohydrolase"", ""-",False
+6j56_A,train,129,-,True
+1w9g_A,train,104,Enhancer of rudimentary,False
+2rku_A,train,294,"Transferase(Phosphotransferase) domain 1"", ""Phosphorylase Kinase; domain 1",False
+6idx_A,train,524,-,True
+4gip_A,train,81,-,True
+3kz5_B,valid,52,-,False
+1z7k_B,valid,62,-,False
+1sei_B,train,130,"-"", ""-",False
+4af1_A,train,416,eRF1 domain 2,True
+3rlk_A,train,192,-,True
+2pbk_B,test,228,Herpesvirus/Caudovirus protease domain,True
+5vap_A,train,112,-,False
+6e33_A,valid,61,-,True
+1gnt_A,train,553,"-"", ""-"", ""-"", ""-",True
+1x3o_A,train,80,ACP-like,False
+6mm7_C,valid,209,-,False
+1mlw_A,train,301,Aromatic amino acid hydroxylase,True
+3hgl_A,valid,85,-,True
+1dci_C,valid,275,"Lyase 2-enoyl-coa Hydratase, Chain  A, domain 2"", ""2-enoyl-CoA Hydratase; Chain A, domain 1",False
+4uhv_B,train,651,"-"", ""Gp5 N-terminal domain"", ""Baseplate protein-like domains"", ""-",False
+2gwn_A,train,452,"Urease, subunit C, domain 1"", ""Metal-dependent hydrolases",True
+2jlq_A,train,451,"P-loop containing nucleotide triphosphate hydrolases"", ""P-loop containing nucleotide triphosphate hydrolases",True
+2qp2_A,train,511,-,True
+1btk_A,test,169,Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB),False
+1ru4_A,train,400,"Single-stranded right-handed beta-helix, Pectin lyase-like",True
+4p7x_A,valid,292,-,True
+3cml_A,valid,362,Duffy-antigen binding domain,False
+3hms_A,train,101,Hepatocyte Growth Factor,True
+3bqk_A,train,360,Duffy-antigen binding domain,True
+2hng_A,train,127,SecB-like,True
+5v0m_A,train,98,-,True
+7e2s_A,train,233,-,True
+5ja5_A,train,209,-,True
+4y93_A,valid,446,-,True
+4wyw_A,valid,481,"-"", ""-",True
+3lq9_B,train,134,RTP801-like,False
+2d28_C,train,149,"-"", ""Type II secretion system, protein E, N-terminal domain",True
+8dkp_A,train,396,-,False
+2gkp_A,train,167,NMB0488-like,True
+1ql0_B,train,241,"Extracellular Endonuclease, subunit A",False
+1kop_A,train,223,Alpha carbonic anhydrase,False
+3l32_A,train,45,-,True
+4jqu_B,train,54,-,True
+2qhq_B,test,125,vpa0580 domain like,True
+1zn6_A,train,227,SOS response associated peptidase-like,True
+5e7x_A,train,155,-,True
+5g38_A,train,172,"Photosystem II, cytochrome c-550 precursor",False
+1y7t_B,train,327,"NAD(P)-binding Rossmann-like Domain"", ""Lactate dehydrogenase/glycoside hydrolase, family 4, C-terminal",False
+6l3m_B,train,420,-,False
+1rk8_B,test,147,Mago nashi,True
+4gk9_A,train,279,"-"", ""-",True
+4ddp_A,train,210,Autophagy protein 6/Beclin 1,True
+2d5b_A,train,500,"Isoleucyl-tRNA Synthetase; Domain 1"", ""-"", ""HUPs",True
+2wb6_A,train,130,-,True
+3l2a_A,train,129,"Filoviridae VP35, C-terminal inhibitory domain, helical subdomain"", ""Filoviridae VP35, C-terminal inhibitory domain, beta-sheet subdomain",True
+7zz7_A,train,272,-,False
+4xb4_A,train,152,"Orange carotenoid-binding protein, N-terminal domain",False
+4a1k_A,train,165,"L,D-transpeptidase catalytic domain-like"", ""LysM domain",False
+3dan_A,train,473,Cytochrome P450,True
+1jwq_A,test,179,Zn-dependent exopeptidases,True
+5c8q_B,test,154,"Cyanovirin-N"", ""LysM domain",True
+2r31_A,train,239,"ATP12 ATPase"", ""ATP12-like",True
+8bbm_A,train,170,-,False
+5h2d_A,train,435,-,True
+3lyf_D,train,245,-,False
+1sf9_A,train,128,"Hypothetical protein YfhH domain"", ""Hypothetical protein YfhH like domains",True
+1p27_C,train,144,Mago nashi,False
+3bzn_A,train,431,Anthranilate synthase,True
+2ii1_D,train,301,-,True
+4hfq_B,train,203,Nucleoside Triphosphate Pyrophosphohydrolase,True
+1b2s_E,train,90,Barstar-like,True
+4ny3_A,train,304,-,False
+6eof_A,train,522,"Substrate Binding Domain Of DNAk; Chain A, domain 1"", ""-"", ""-"", ""Actin; Chain A, domain 4",True
+4qn8_B,train,155,-,True
+6uof_A,train,119,-,True
+3apa_A,train,141,Jacalin-like lectin domain,True
+3ipf_A,train,71,-,True
+1ix9_A,train,205,"Fe,Mn superoxide dismutase (SOD) domain"", ""Iron/manganese superoxide dismutase, C-terminal domain",False
+3ib5_A,test,348,sex pheromone staph- cam373 precursor domain,True
+2wr8_A,train,259,"Bacterial fluorinating enzyme like"", ""S-adenosyl-l-methionine hydroxide adenosyltransferase, N-terminal",True
+3d1g_A,train,366,"DNA Polymerase III, subunit A, domain 2"", ""DNA Polymerase III, subunit A, domain 2"", ""DNA Polymerase III, subunit A, domain 2",False
+5njl_A,valid,295,-,True
+6ro6_B,train,58,-,False
+3eto_A,train,242,"-"", ""-",True
+5x1e_E,valid,148,-,False
+2xz2_A,train,66,"Cleavage stimulation factor subunit 1, dimerisation domain",True
+1k30_A,train,368,"Glycerol-3-phosphate acyltransferase, alpha helical bundle, N-terminal"", ""Glycerol-3-phosphate (1)-acyltransferase",False
+2fma_A,train,59,"Amyloidogenic glycoprotein, copper-binding domain",True
+5w4d_B,train,216,-,False
+5hz7_A,train,490,-,True
+3vnb_A,train,155,-,True
+1ear_A,train,147,"Urease metallochaperone UreE, N-terminal domain"", ""UreE, C-terminal domain",True
+3ic3_B,train,101,putative pyruvate dehydrogenase,True
+7a66_C,train,86,-,False
+2ebb_A,train,101,Transcriptional coactivator/pterin dehydratase,True
+3g98_B,train,111,-,False
+1zsw_A,train,338,"2,3-Dihydroxybiphenyl 1,2-Dioxygenase, domain 1"", ""2,3-Dihydroxybiphenyl 1,2-Dioxygenase, domain 1",True
+4m62_S,train,155,Mannitol-specific EII; Chain A,True
+3dqy_A,train,106,Rieske [2Fe-2S] iron-sulphur domain,False
+2phn_A,train,254,"CofE-like"", ""CofE-like domain",True
+1kgq_A,train,274,"Tetrahydrodipicolinate-N-succinyltransferase, N-terminal domain"", ""Hexapeptide repeat proteins",True
+6cka_B,train,68,-,True
+2v4n_A,train,254,Survival protein SurE-like phosphatase/nucleotidase,True
+6ovk_R,train,219,-,True
+4aqr_D,train,57,-,True
+4whe_A,train,150,-,True
+4ckk_A,train,493,"Topoisomerase, domain 3"", ""Topoisomerase II, domain 5",False
+1knt_A,valid,58,Pancreatic trypsin inhibitor Kunitz domain,True
+2oxl_A,valid,64,-,False
+4o66_C,train,76,-,False
+4alz_A,train,198,"-"", ""-"", ""-",True
+2yzs_B,train,315,"CRISPR-associated endonuclease Cas1, C-terminal domain"", ""CRISPR-associated endonuclease Cas1, N-terminal domain",False
+5a67_A,train,212,Hypothetical Protein Pfu-838710-001,True
+2obl_A,train,347,"-"", ""P-loop containing nucleotide triphosphate hydrolases",True
+3rmq_A,train,116,"Malonyl-[acyl-carrier protein] O-methyltransferase, zinc-finger motif"", ""-",True
+2nsa_A,train,170,"Trigger factor, C-terminal domain",True
+7ec1_A,train,505,-,True
+3q3u_A,valid,338,"Peroxidase, domain 2"", ""-",False
+1by2_A,valid,119,SRCR-like domain,True
+1vr8_A,train,142,TM1622-like,True
+1ojq_A,train,212,"Toxin ADP-ribosyltransferase; Chain A, domain 1",False
+2j6b_A,train,109,"Uncharacterised protein PF08960, DUF1874",True
+2rff_A,train,111,"Beta Polymerase, domain 2",True
+6h95_A,train,226,-,False
+1t95_A,train,240,"SBDS protein C-terminal domain, subdomain 1"", ""-"", ""Ribosome maturation protein SBDS, N-terminal domain",False
+2xol_B,train,176,TorD-like,False
+4npd_A,train,58,"Immunoglobulin FC, subunit C",True
+1b8d_K,train,164,Phycocyanins,False
+5um3_A,train,75,-,True
+7aex_A,valid,275,-,True
+4oxw_A,train,119,Phox-like domain,True
+2puo_A,train,109,Ferredoxin thioredoxin reductase catalytic beta subunit,False
+5ij2_B,train,201,-,False
+3nuf_A,train,119,PRD domain,False
+4dlh_B,train,197,-,True
+1hp1_A,train,516,"-"", ""5'-Nucleotidase, C-terminal domain",True
+1pdo_A,train,135,"Phosphotransferase system, mannose-type IIA component",False
+1t8k_A,train,77,ACP-like,True
+2bti_B,train,63,-,False
+3bri_A,train,89,Protein Inhibitor Of Neuronal Nitric Oxide Synthase;,False
+3svi_A,test,83,-,False
+4p3a_B,test,79,Anaphylotoxins (complement system),False
+2oxo_A,test,103,-,True
+3vor_A,train,182,TcpA-like pilin,False
+2gc4_L,train,147,Cytochrome c-like domain,False
+7sao_A,train,38,-,False
+2z6o_A,train,172,Ubiquitin Conjugating Enzyme,False
+2pbk_A,train,228,Herpesvirus/Caudovirus protease domain,False
+1f9p_A,train,85,-,True
+3c8y_A,train,574,"-"", ""-",False
+3boe_A,train,210,-,True
+1b25_D,train,619,"Aldehyde Ferredoxin Oxidoreductase Protein, subunit A, domain 2"", ""Aldehyde Ferredoxin Oxidoreductase Protein, subunit A, domain 3"", ""Aldehyde ferredoxin oxidoreductase, N-terminal domain",False
+3jsy_B,train,213,"-"", ""-",True
+6vjg_A,train,110,-,True
+3fhf_A,train,214,"Hypothetical protein; domain 2"", ""Helix-hairpin-Helix base-excision DNA repair enzymes (C-terminal)",False
+1c52_A,train,131,Cytochrome c-like domain,True
+5dmp_A,train,169,-,False
+2p3p_B,train,207,-,True
+6dnm_A,test,190,-,True
+3a2q_A,train,493,Amidase signature (AS) domain,True
+3ip4_A,train,485,Amidase signature (AS) domain,False
+6sdk_A,train,199,-,False
+5j72_A,train,638,-,True
+6a9a_A,train,246,Thymidylate synthase/dCMP hydroxymethylase domain,True
+3e0z_B,train,109,Domain of unknown function DUF3837,False
+3n4j_A,train,165,-,True
+2jh3_B,train,474,"-"", ""-"", ""-"", ""-",True
+5v6g_A,train,171,"-"", ""-",False
+5by8_B,train,85,-,True
+3v68_A,train,252,-,True
+2drv_B,valid,200,tRNA wybutosine-synthesizing-like,False
+1i4m_A,train,108,"Prion/Doppel protein, beta-ribbon domain",True
+3ush_A,valid,129,Protein of unknown function DUF2237,False
+5hub_A,train,90,Chorismate mutase,True
+1d3y_B,train,301,"Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain"", ""-",True
+1lln_A,train,262,"Ricin (A subunit), domain 1"", ""Ricin (A Subunit), domain 2",False
+2rij_A,train,387,"Hexapeptide repeat proteins"", ""Trimeric LpxA-like enzymes"", ""-",True
+2ov9_B,train,216,"Thioesterase/thiol ester dehydrase-isomerase"", ""Hotdog Thioesterase",False
+2yyv_B,test,227,ComB-like,False
+4kmn_A,train,103,Inhibitor Of Apoptosis Protein (2mihbC-IAP-1); Chain A,False
+4dja_A,valid,518,"Deoxyribodipyrimidine photolyase-related"", ""DNA Cyclobutane Dipyrimidine Photolyase, subunit A, domain 3"", ""-"", ""HUPs",True
+1upt_D,train,60,GRIP domain,True
+3ino_A,valid,143,-,False
+1e7l_B,train,157,"-"", ""His-Me finger endonucleases",False
+1t61_E,test,229,"Collagen IV, non-collagenous",False
+4xo1_A,train,60,-,True
+2y3w_A,train,182,"Spindle assembly abnormal protein 6, N-terminal domain",True
+2vlf_B,train,456,"Type I PLP-dependent aspartate aminotransferase-like (Major domain)"", ""Aspartate Aminotransferase, domain 1",False
+4zbo_D,test,265,Acetoacetate decarboxylase-like,False
+2gfq_A,train,298,"AF0625-like"", ""AF0625-like",False
+3lx5_A,valid,272,"-"", ""P-loop containing nucleotide triphosphate hydrolases",True
+2yxn_A,train,322,"Tyrosyl-Transfer RNA Synthetase"", ""HUPs",False
+3tgt_A,train,353,"Human immunodeficiency virus 1, Gp160, envelope glycoprotein",True
+3t7z_A,train,119,-,True
+2hq4_A,train,161,PH1570-like,True
+1vlb_A,train,907,"[2Fe-2S]-binding domain"", ""-"", ""Aldehyde oxidase/xanthine dehydrogenase, molybdopterin binding domain"", ""Aldehyde oxidase/xanthine dehydrogenase, molybdopterin binding domain"", ""Aldehyde oxidase/xanthine dehydrogenase, molybdopterin binding domain"", ""Aldehyde oxidase/xanthine dehydrogenase, molybdopterin binding domain"", ""Aldehyde oxidase/xanthine dehydrogenase, a/b hammerhead",True
+5ce9_A,train,339,Di-copper center containing domain from catechol oxidase,False
+1xty_B,train,120,Bit1,False
+7buy_A,train,306,-,True
+1zt5_A,train,80,Thyroglobulin type-1,True
+5z1n_A,train,168,-,True
+5bty_A,train,138,-,False
+1ok0_A,valid,74,Alpha-amylase inhibitor,True
+5gw6_A,valid,196,"RNA Cap, Translation Initiation Factor Eif4e",True
+4ke2_C,test,196,-,True
+1qhv_A,train,195,"Adenovirus pIV-related, attachment domain",True
+5zlq_A,train,162,-,True
+6y5p_B,train,235,-,False
+3oyv_A,train,361,-,True
+5j47_A,train,372,"Zinc finger, large T-antigen D1 domain"", ""Large T antigen, SV40, domain 3"", ""P-loop containing nucleotide triphosphate hydrolases",True
+3wa1_A,train,389,-,True
+4yal_A,train,622,"NADPH-cytochrome p450 Reductase; Chain A, domain 3"", ""Translation factors"", ""Nucleotide-binding domain of ferredoxin-NADP reductase (FNR) module"", ""-",False
+2e6x_D,test,69,Protein of unknown function DUF3248,False
+2hhv_A,train,580,"5' to 3' exonuclease, C-terminal subdomain"", ""Taq DNA Polymerase; Chain T, domain 4"", ""-"", ""Ribonuclease H-like superfamily/Ribonuclease H",False
+4xb6_C,train,354,-,False
+1d3y_A,train,301,"Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain"", ""-",False
+5g68_A,train,363,"Nitric Oxide Synthase; Chain A, domain 1"", ""Nitric Oxide Synthase;Heme Domain;Chain A domain 2"", ""Nitric Oxide Synthase; Chain A, domain 3",True
+7zoy_A,train,234,-,False
+6i3v_A,train,69,-,False
+2z6r_A,train,265,"Methyltransferase, Cobalt-precorrin-4 Transmethylase; Domain 2"", ""Cobalt-precorrin-4 Transmethylase; Domain 1",False
+4ksn_A,train,78,-,False
+1enj_A,train,138,T4 endonuclease V,False
+4gvq_C,train,316,"Methenyltetrahydromethanopterin Cyclohydrolase; Chain A, domain 1"", ""Methenyltetrahydromethanopterin Cyclohydrolase; Chain A, domain 2",False
+4qmd_A,train,193,Plakin repeat,True
+3ush_B,train,129,Protein of unknown function DUF2237,True
+2aj7_A,train,163,BH3618-like,False
+3p5p_A,train,764,"Farnesyl Diphosphate Synthase"", ""Terpene synthase, N-terminal domain"", ""-",True
+5syr_B,test,352,-,False
+1tgr_A,train,52,Insulin-like,False
+6pr1_B,train,457,-,False
+2vfx_C,valid,206,HORMA domain,False
+1cm3_A,train,85,HPr-like,False
+7ead_A,train,135,-,True
+3cla_A,train,213,Chloramphenicol acetyltransferase-like domain,False
+1l2p_A,train,61,"F1F0 ATP synthase subunit B, membrane domain",True
+1dpt_A,train,117,Macrophage Migration Inhibitory Factor,False
+5z42_A,test,102,"MutL, C-terminal domain, dimerisation subdomain",True
+7p41_D,train,448,-,True
+4wrp_B,test,122,-,False
+2p12_A,train,176,FomD-like,True
+6ovm_R,valid,219,-,False
+2d1l_A,train,253,Arfaptin homology (AH) domain/BAR domain,True
+1wbe_A,valid,209,Glycolipid transfer protein,True
+5ert_A,train,419,"MoeA, C-terminal, domain IV"", ""Molybdopterin biosynthesis moea protein, domain 3."", ""MoaB/Mog-like domain"", ""Molybdopterin biosynthesis moea protein, domain 2",True
+4xpz_A,test,372,"S15/NS1, RNA-binding"", ""HAD superfamily/HAD-like"", ""BRCT domain",True
+5n0n_A,train,410,-,True
+1l2w_I,train,69,-,True
+3t7h_B,valid,291,-,False
+2cc6_A,train,68,Flavin-binding protein dodecin,False
+5fbf_A,train,267,P1 Nuclease,False
+1wn9_A,test,131,TTHA1528-like,False
+6hat_B,train,273,-,False
+7vfk_A,train,505,-,False
+4qn8_A,train,155,-,False
+3h2d_B,valid,155,CheC-like,False
+5w53_B,valid,307,-,True
+2ahn_A,test,222,Thaumatin,False
+4oj6_C,train,776,"-"", ""Single-stranded right-handed beta-helix, Pectin lyase-like"", ""-"", ""-",True
+5hkq_I,train,129,-,False
+1u6t_A,test,121,Glutaredoxin,True
+3g6i_A,train,204,-,False
+3msu_B,train,427,"Cytochrome P450-Terp, domain 2"", ""Citrate Synthase, domain 1"", ""-",False
+3vc8_B,train,94,Coronavirus nonstructural protein 4 C-terminus,True
+1rrm_A,train,386,"Dehydroquinate synthase-like - alpha domain"", ""-",False
+3h93_A,test,192,Glutaredoxin,True
+3cw3_A,train,96,Crystallins,True
+1dj0_B,train,264,"Pseudouridine synthase I, catalytic domain, N-terminal subdomain"", ""Pseudouridine synthase I, catalytic domain, C-terminal subdomain",False
+4rsw_B,train,255,-,False
+6ono_C,train,76,-,True
+1tag_A,train,324,"GI Alpha 1, domain 2-like"", ""P-loop containing nucleotide triphosphate hydrolases",True
+4goq_A,train,110,Protein of unknown function (DUF1491),False
+5mu4_A,test,201,-,False
+4wzg_A,train,218,-,True
+3mmy_F,train,56,-,False
+1cuo_A,train,129,Cupredoxins -  blue copper proteins,True
+7c21_A,train,112,-,False
+6nl2_B,train,594,-,False
+5a5y_A,train,212,Hypothetical Protein Pfu-838710-001,False
+5ul4_A,train,744,-,False
+3ooi_A,train,232,SET domain,True
+5gv0_A,train,168,-,True
+5znj_A,valid,567,"Bira Bifunctional Protein; Domain 2"", ""Anticodon-binding domain"", ""YbaK/aminoacyl-tRNA synthetase-associated domain",True
+5htl_A,train,145,-,False
+5jr5_A,train,52,Tetrabrachion,False
+7s86_A,train,99,-,True
+5osw_A,valid,583,"-"", ""-"", ""-"", ""-"", ""-"", ""-",True
+2es9_A,train,115,-,True
+4k2m_B,train,443,"Type I PLP-dependent aspartate aminotransferase-like (Major domain)"", ""Aspartate Aminotransferase, domain 1",False
+2x49_A,train,333,"FHIPEP family, domain 3"", ""FHIPEP family, domain 2"", ""FHIPEP family, domain 1"", ""FHIPEP family, domain 4",True
+4gn0_A,valid,105,-,True
+4ea9_A,train,220,"Hexapeptide repeat proteins"", ""-",True
+1zos_C,train,230,Nucleoside phosphorylase domain,False
+3czz_B,train,101,Cyanovirin-N,False
+3lae_A,valid,81,-,False
+3o79_A,train,105,"Prion/Doppel protein, beta-ribbon domain",False
+3quo_A,train,286,Acetylglutamate kinase-like,False
+6q9c_A,train,155,-,True
+1ouw_C,train,152,Jacalin-like lectin domain,False
+2i9x_A,train,87,Stage V sporulation protein G,True
+2v4b_B,train,300,"Collagenase (Catalytic Domain)"", ""-",True
+2i9w_A,train,184,-,True
+2cfe_A,train,162,Cyclophilin-like,True
+3jza_B,test,197,-,False
+5cof_A,train,173,dinb family like domain,True
+2p9x_A,test,99,Protein of unknown function DUF3227,False
+2bko_A,train,205,"Phosphate transport system protein phou homolog 2; domain 2"", ""Regulator of K+ conductance, C-terminal domain",True
+1gwe_A,test,503,Catalase core domain,True
+1d2t_A,valid,231,Phosphatidic acid phosphatase type 2/haloperoxidase,True
+3b4w_A,train,495,"Aldehyde Dehydrogenase; Chain A, domain 2"", ""Aldehyde Dehydrogenase; Chain A, domain 1",True
+7uhe_A,train,76,-,False
+5hob_F,train,50,p53-like tetramerisation domain,False
+2p9x_D,train,99,Protein of unknown function DUF3227,True
+5e3e_A,train,104,-,True
+1t7v_A,train,278,"Immunoglobulins"", ""MHC class I-like antigen recognition-like",True
+2eu7_X,train,179,-,False
+3l1e_A,test,106,-,False
+1uha_A,train,82,"Endochitinase-like"", ""Endochitinase-like",True
+4ksn_C,train,78,-,True
+3aa0_A,train,286,"F-actin capping protein, alpha subunit"", ""F-actin capping protein, beta subunit",False
+4e1p_A,train,61,"Lsr2, dimerization domain",True
+4ayg_A,train,1039,"Cholin Binding"", ""Golgi alpha-mannosidase II"", ""Glucansucrase",False
+2wkx_A,train,261,"PGBD-like superfamily/PGBD"", ""Peptidoglycan recognition protein-like",False
+1xkg_A,train,312,Cysteine proteinases,True
+7ccg_A,train,271,-,False
+1zxx_A,train,319,"-"", ""Phosphofructokinase domain",True
+6hr2_B,train,149,-,False
+3g3s_B,train,249,"-"", ""GNAT acetyltransferase-like",False
+7bqi_A,train,183,-,False
+2id6_A,train,202,"Homeodomain-like"", ""Tetracycline Repressor, domain 2",False
+7kwt_A,train,71,-,False
+1dtd_B,train,61,Carboxypeptidase inhibitor,True
+1ryl_A,train,167,YfbM-like super family,True
+3ju3_A,valid,118,-,True
+6mi3_B,train,124,-,False
+1v1h_C,train,103,-,False
+1r6l_A,train,239,"GHMP Kinase, N-terminal domain",False
+7zkk_B,train,730,-,False
+3hfw_A,train,357,ADP-ribosylation/Crystallin J1,True
+1rm6_B,train,324,"CO dehydrogenase flavoprotein, C-terminal domain",True
+2i2f_A,train,272,"Probable inorganic polyphosphate/atp-NAD kinase; domain 2"", ""Probable inorganic polyphosphate/atp-NAD kinase; domain 1",True
+2e8e_A,train,132,-,True
+6ypi_A,valid,97,-,True
+1t8h_A,train,277,CNF1/YfiH-like putative cysteine hydrolases,False
+1wui_L,train,534,"Cytochrome-c3 Hydrogenase, chain B",True
+1vzm_B,valid,45,-,False
+2ov9_C,train,216,"Thioesterase/thiol ester dehydrase-isomerase"", ""Hotdog Thioesterase",True
+5dbl_A,train,132,Resuscitation-promoting factor rpfb.,True
+5k6d_B,train,78,-,False
+1yqw_Q,train,549,"Cytochrome-c3 Hydrogenase, chain B",False
+3m66_A,train,270,"Transcription termination factor 3, mitochondrial",True
+2pmb_C,train,462,"MoCo carrier protein-like"", ""-",True
+2b97_A,train,71,Hydrophobin,False
+1j5u_A,valid,136,Archease domain,True
+1nty_A,train,311,"Dbl homology (DH) domain"", ""Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB)",True
+5bnh_D,train,123,-,False
+6asd_C,train,47,-,False
+4uc8_A,train,233,-,False
+3omd_A,train,145,-,False
+4rp4_A,train,98,-,False
+2y4x_B,train,93,-,True
+1nkp_D,train,88,Helix-loop-helix DNA-binding domain,False
+4edk_A,train,329,"DnaG, RNA polymerase domain, helical bundle"", ""-"", ""DNA primase, catalytic core, N-terminal domain",False
+6mdx_A,train,185,-,False
+6d7y_B,train,155,-,True
+3lkt_Q,train,238,Aromatic compound dioxygenase,False
+5a0d_B,train,186,Thioester domain,False
+1q74_C,train,303,LmbE-like,False
+3x38_B,train,89,-,False
+3wur_B,train,171,-,True
+7bwf_B,train,92,-,True
+4y7s_A,train,111,-,True
+6o6y_A,train,440,-,True
+6lus_A,train,133,-,True
+6zsl_B,train,603,-,True
+1qxo_A,train,388,Chorismate synthase AroC,True
+1jyo_E,train,105,non globular Virulence effector SptP domain,False
+2pa6_B,train,427,"Enolase-like C-terminal domain"", ""Enolase-like, N-terminal domain",False
+4rnz_A,train,371,"Glucose Permease (Domain IIA)"", ""-",True
+3pes_A,train,85,-,True
+5ii7_A,train,138,Fertilization protein,True
+3d2q_A,train,70,-,False
+1w53_A,train,84,KaiA/RbsU domain,True
+3q0i_A,train,318,"Formyl transferase, C-terminal domain"", ""Formyl transferase, N-terminal domain",True
+6e0x_B,train,169,Cytochrome P460,False
+3u7t_A,train,46,Thionin-like,False
+3v0r_A,train,133,-,True
+1g9g_A,train,629,"-"", ""Endo-1,4-beta-glucanase f.  Domain 2"", ""Endo-1,4-beta-glucanase f.  Domain 3",True
+2cyj_A,test,118,MTH938-like,True
+4csb_A,train,124,Rhodococcus equi virulence-associated protein,True
+2b3y_A,train,888,"Aconitase, domain 4"", ""Aconitase, domain 3"", ""Aconitase, domain 3"", ""Aconitase, Domain 2"", ""-",False
+1juv_A,train,193,"Dihydrofolate Reductase, subunit A",True
+3on9_A,test,163,-,True
+2wzo_A,train,146,-,True
+3zfp_A,train,148,"Pestivirus Npro endopeptidase C53, interaction domain",False
+1af7_A,valid,274,"Chemotaxis receptor methyltransferase CheR, N-terminal domain"", ""Vaccinia Virus protein VP39",False
+5m33_A,train,101,Tetraspanin,False
+2wpq_C,train,99,-,False
+4ys0_A,train,824,-,True
+3b4q_B,train,94,conserved protein domain from corynebacterium diphtheriae,True
+1i0v_A,valid,104,Microbial ribonucleases,False
+1ois_A,train,223,"Yeast DNA topoisomerase - domain 1"", ""DNA Topoisomerase I, domain 2",True
+6bwq_A,train,149,-,True
+3ngg_B,valid,50,Elafin-like,False
+3ebh_A,train,889,"Neutral Protease Domain 2"", ""Peptidase M1, alanyl aminopeptidase, C-terminal domain"", ""tricorn interacting facor f3 domain"", ""-"", ""-",True
+1dow_A,train,205,Alpha-catenin/vinculin-like,False
+2h1t_B,test,188,-,False
+3c9p_A,train,123,uncharacterized protein sp1917 domain,True
+1jyo_B,test,130,-,False
+2xf7_A,train,51,-,True
+1dfu_P,test,94,Ribosomal Protein L25; Chain P,False
+8ezh_B,train,433,-,False
+3rkg_A,train,261,"Magnesium transport protein CorA, transmembrane region"", ""-",True
+7ecq_A,valid,175,-,False
+3onj_A,test,97,t-snare proteins,True
+5kza_A,train,104,-,False
+1hye_A,test,313,"NAD(P)-binding Rossmann-like Domain"", ""Lactate dehydrogenase/glycoside hydrolase, family 4, C-terminal",True
+2vfk_A,train,205,Cyclic phosphodiesterase,True
+2hgx_B,train,365,"D-amino Acid Aminotransferase, subunit A, domain 2"", ""-",False
+4arl_B,valid,359,-,False
+4wrp_A,train,122,-,True
+3gqh_A,train,163,"Head decoration protein D"", ""succinate dehydrogenase protein domain",False
+1wlg_B,train,299,Flagellar hook protein FlgE,True
+5v7m_A,train,265,-,True
+1puc_A,test,105,"Cyclin-dependent kinase, regulatory subunit",True
+3jv1_A,train,182,Mitochondrial glycoprotein,False
+2i5u_A,train,83,DnaD domain-like,True
+3pes_B,train,85,-,False
+4mp8_A,train,339,"ornithine cyclodeaminase, domain 1"", ""NAD(P)-binding Rossmann-like Domain",True
+1lri_A,train,98,Elicitin domain,True
+1wpu_A,train,147,Hut operon regulatory protein HutP,True
+1xg0_B,train,67,Phycoerythrin alpha chain,False
+6o19_A,train,59,-,False
+5vu3_B,train,170,CinA-like,False
+6fbz_B,test,81,-,False
+5iqj_A,valid,134,-,False
+4zac_D,train,503,-,False
+2gpi_A,train,91,Shew3726-like,True
+1y0n_A,test,78,YehU-like,True
+5v03_B,train,102,-,True
+2x5h_B,train,97,-,False
+4ykd_A,train,96,-,True
+4zi3_D,train,133,"ADP-ribosylation factor-like 2-binding protein, domain",True
+3f2e_A,train,100,-,False
+5i8j_B,train,64,-,False
+3m5q_A,train,357,"Peroxidase, domain 2"", ""-",True
+6yhu_B,train,117,-,True
+5lbd_A,train,131,-,False
+3a39_A,valid,83,High potential iron-sulphur protein,True
+3bzl_D,valid,83,secretion proteins EscU,True
+3lti_A,valid,296,"RNA polymerase Rpb2, domain 2",True
+5op0_B,train,331,-,False
+2f5t_X,train,233,"-"", ""Endonuclease Chain A",False
+1e6y_D,train,569,"Methyl-coenzyme M reductase, alpha/beta subunit, C-terminal"", ""-"", ""Methyl-coenzyme M Reductase; Chain A, domain 1",False
+5iqj_C,valid,134,-,True
+3nl9_A,train,171,putative ntp pyrophosphohydrolase like domain,False
+3a1g_C,train,80,-,False
+6h86_B,train,88,-,False
+3m7d_A,train,380,"-"", ""-",True
+4j4r_A,train,248,-,True
+4ue8_B,test,38,-,True
+1vdk_B,valid,466,"Fumarase/aspartase (C-terminal domain)"", ""Fumarase/aspartase (N-terminal domain)"", ""Fumarase/aspartase (Central domain)",False
+2yzt_A,train,67,-,True
+2ppv_A,test,332,CofD-like domains,True
+3ncl_A,train,241,"Trypsin-like serine proteases"", ""Trypsin-like serine proteases",True
+1nnh_A,train,294,Bira Bifunctional Protein; Domain 2,False
+6c62_C,train,68,-,True
+1iqq_A,train,200,Ribonuclease T2-like,False
+7n1n_A,train,68,-,False
+2pw8_I,train,65,"Thrombin Inhibitor (Hirudin), subunit I",True
+2oy9_A,train,98,BH2638-like,False
+1im5_A,valid,180,Isochorismatase-like,True
+2i7c_C,train,283,"Spermidine synthase, tetramerisation domain"", ""Vaccinia Virus protein VP39",True

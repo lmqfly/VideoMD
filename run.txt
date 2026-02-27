@@ -1,0 +1,24 @@
+# 多卡训练版本：使用 GPU 2,5 (根据你的实际 GPU 数量修改)
+# 使用 setsid 创建新会话，确保子进程不受 SIGHUP 影响
+CUDA_VISIBLE_DEVICES=2,6 nohup setsid accelerate launch examples/wanvideo/model_training/train.py \
+  --dataset_base_path /home/xujunzhang/mingquan/DiffSynth-Studio-main/video_data/video_cropped_renamed \
+  --dataset_metadata_path /home/xujunzhang/mingquan/DiffSynth-Studio-main/video_data/metadata.csv \
+  --height 720 \
+  --width 1280 \
+  --num_frames 49 \
+  --dataset_repeat 1 \
+  --model_id_with_origin_paths "Wan-AI/Wan2.1-I2V-14B-720P:diffusion_pytorch_model*.safetensors,Wan-AI/Wan2.1-I2V-14B-720P:models_t5_umt5-xxl-enc-bf16.pth,Wan-AI/Wan2.1-I2V-14B-720P:Wan2.1_VAE.pth,Wan-AI/Wan2.1-I2V-14B-720P:models_clip_open-clip-xlm-roberta-large-vit-huge-14.pth" \
+  --learning_rate 1e-4 \
+  --num_epochs 5 \
+  --remove_prefix_in_ckpt "pipe.dit." \
+  --output_path "./models/train/Wan2.1-I2V-14B-720P_lora_protein_all_data_mgpu" \
+  --lora_base_model "dit" \
+  --lora_target_modules "q,k,v,o,ffn.0,ffn.2" \
+  --lora_rank 32 \
+  --extra_inputs "input_image" \
+  --use_gradient_checkpointing_offload \
+  > train_protein_v2_lora_multiGPU.log 2>&1 &
+  
+  
+  
+CUDA_VISIBLE_DEVICES=2 nohup python ./examples/wanvideo/model_inference/Wan2.1-I2V-14B-720P.py &

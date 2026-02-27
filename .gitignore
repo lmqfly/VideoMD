@@ -1,0 +1,29 @@
+# 数据与模型（不推送到 GitHub）
+video_data/
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+.eggs/
+dist/
+build/
+
+# 日志与临时文件
+*.log
+nohup.out
+.env
+.venv/
+venv/
+
+# IDE / 系统
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*~
